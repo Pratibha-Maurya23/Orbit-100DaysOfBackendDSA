@@ -2,6 +2,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
+const auth = require("../auth-api-practice/middleware/auth");
 require('dotenv').config();
 
 const User = require('./models/user');
@@ -37,16 +38,9 @@ app.post("/login",async (req, res)=>{
   res.json({token});
 });
 
-// Protected Route
-app.get('/profile',(req, res) =>{
-  const token = req.headers.authorization?.split(" ")[1];
-  if(!token) return res.status(401).json({message : "No token ❌"});
-
-  jwt.verify(token,process.env.JWT_SECRET,(err, data) =>{
-    if(err) return res.status(401).json({message:"Invalid Token ❌"});
-
-    res.json({message:"Access Granted",data});
-  });
+// Protected Route using middleware
+app.get("/profile", auth, (req, res) => {
+  res.json({ message: "Access Granted ✅", user: req.user });
 });
 
 
