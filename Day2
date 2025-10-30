@@ -1,0 +1,37 @@
+1️⃣ Graphs — Implementation + 2 Problems
+Write BFS + DFS code on your own in Java
+Solve any 2 medium-level Graph problems
+ 🔗 Resource:
+ https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
+ https://leetcode.com/problemset/all/?topicSlugs=graph
+📌 Suggested Problems:
+Number of Islands 🌴
+Rotting Oranges 🍊 (V. common in interviews)
+
+
+✅ 2️⃣ Backend Authentication — Secure it fully
+Password hashing with bcrypt
+Add refresh token mechanism
+Protect sensitive routes using middleware
+🔗 JWT Refresh Token Guide:
+ https://www.geeksforgeeks.org/rest-api-authentication-java-script-and-node-js-jwt-token/
+📌 Goal:
+ ✔ Login returns both access + refresh token
+ ✔ Profile route protected
+
+
+✅ 3️⃣ API Testing — Proper workflow
+Test Register → Login → Protected route
+Check headers + status codes
+Store token using Authorization: Bearer <token>
+🔗 Postman docs:
+ https://learning.postman.com/docs/sending-requests/requests/
+
+
+✅ 4️⃣ AWS — Start officially (Only 30 min)
+Create IAM user
+Enable MFA
+Explore EC2 dashboard
+
+🔗 Resource:
+ https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started.html
