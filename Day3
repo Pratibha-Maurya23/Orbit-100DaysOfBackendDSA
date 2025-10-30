@@ -1,0 +1,41 @@
+💻 Day 3 — Build, Secure & Strengthen
+
+⚙️ Task 1 — Middleware & Protected Routes
+⏰ Time: 45 min
+ 📘 Goal: Learn to secure backend APIs like a pro.
+🧩 What to Do:
+Create an Express middleware to verify JWT tokens.
+Apply middleware to protect your /profile route.
+Test unauthorized access in Thunder Client or Postman.
+📖 Resources:
+ 👉 Express Middleware – GFG
+ 👉 JWT Auth Middleware – MDN Docs
+
+
+🧮 Task 2 — DSA: Prefix Sum + Hashing Problem
+⏰ Time: 30–40 min
+ 📘 Goal: Strengthen your logical thinking and hashing application.
+🧩 Problem to Solve:
+ 🔹 Leetcode: Subarray Sum Equals K
+ 🧠 Try to derive the formula yourself before checking the solution.
+📖 Resources:
+ 👉 Prefix Sum Technique – GFG
+
+
+🌐 Task 3 — API Workflow Recap
+⏰ Time: 25 min
+ 📘 Goal: Revise end-to-end API flow (Register → Login → Profile).
+🧩 What to Do:
+Retest all 3 APIs in Thunder Client.
+Save environment variables properly ({{base_url}}, {{token}}).
+Try one negative case: wrong password or missing token.
+📖 Resources:
+ 👉 Thunder Client – Environment Variables
+ 👉 Postman Requests Basics
+
+🧠 Task 4 — Mindset Practice: Learn to Say No
+⏰ Time: 5 min
+ 📘 Goal: Build inner confidence & time discipline.
+🧩 What to Do:
+ Write down one moment today where you said “no” (or wish you had). Reflect how that choice helped your focus. 💜
+
