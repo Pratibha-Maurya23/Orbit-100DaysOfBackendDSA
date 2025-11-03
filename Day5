@@ -1,0 +1,34 @@
+🧱 Task 1 — Backend: Connecting MongoDB to Express Server
+⏰ Time: 35–40 min
+🎯 Goal:
+Learn how to integrate MongoDB Atlas with an Express.js server to efficiently store and retrieve data.
+🧩 What to Do:
+Create a simple Express app
+Connect it with your MongoDB Atlas cluster
+Add a POST route to insert data
+Add a GET route to fetch data
+📘 Resource:
+🔗 MongoDB + Express Connection Guide — GeeksforGeeks
+🔗 MongoDB Atlas Official Docs
+🔗 Express.js Official Docs
+
+🧮 Task 2 — DSA: Two Pointer Pattern (Medium Level)
+⏰ Time: 30–40 min
+🎯 Goal:
+Strengthen array manipulation and problem-solving skills using the Two-Pointer Technique, an essential interview pattern.
+🧩 Problem to Solve:
+🔹 LeetCode — 3Sum (#15)
+📘 Resource:
+🔗 Two Pointer Technique — GeeksforGeeks
+🔗 Array Problems Practice — LeetCode
+
+☁️ Task 3 — AWS: EC2 Instance Deep Dive
+⏰ Time: 25–30 min
+🎯 Goal:
+Understand how EC2 instances work, explore their types, and learn how to host a Node.js app on AWS.
+🧩 What to Do:
+Review EC2 instance types (t2.micro, t3, etc.)
+Learn how to launch, connect via SSH, and stop/start your instance safely
+📘 Resource:
+🔗 AWS EC2 Documentation — Getting Started
+🔗 AWS Free Tier EC2 Overview
