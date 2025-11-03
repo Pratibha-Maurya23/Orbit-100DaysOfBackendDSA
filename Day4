@@ -1,0 +1,67 @@
+# 🚀 Day 4 — Backend + DSA Synergy
+
+Welcome to **Day 4** of your SDE journey!  
+Today’s focus: combining backend logic with DSA problem-solving to build full-stack confidence.
+
+---
+
+## 🧱 Task 1 — Backend: CRUD + Middleware Integration
+**⏰ Time:** 60 min  
+**🎯 Goal:** Implement full CRUD routes (Create, Read, Update, Delete) using **Express + Mongoose**.
+
+### 📝 What to Do
+- Set up a MongoDB model (e.g., `User` or `Product`).
+- Write Express routes for all CRUD operations.
+- Connect the routes to MongoDB and test them using **Postman**.
+- Add input validation using **express-validator**.
+
+### 📘 Resource
+🔗 [Express CRUD Guide — GeeksforGeeks](https://www.geeksforgeeks.org/nodejs-crud-operations-using-mongoose-and-express/)
+
+---
+
+## 🧮 Task 2 — DSA: Two Pointer Practice (Part 2)
+**⏰ Time:** 40 min  
+**🎯 Goal:** Strengthen your array and string manipulation logic using **Two Pointer** patterns.
+
+### 📝 What to Do
+- Solve these problems on **LeetCode**:
+  - [Container With Most Water — #11](https://leetcode.com/problems/container-with-most-water/)
+  - [Remove Duplicates from Sorted Array — #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- Read about the **Two Pointer Technique** and practice dry runs.
+
+### 📘 Resource
+🔗 [Two Pointer Technique — GeeksforGeeks](https://www.geeksforgeeks.org/two-pointers-technique/)
+
+---
+
+## 🧪 Task 3 — API Testing Deep Dive (Postman/Thunder Client)
+**⏰ Time:** 30 min  
+**🎯 Goal:** Learn to verify and validate API responses efficiently using **Postman**.
+
+### 📝 What to Do
+- Create a new Postman collection for your CRUD APIs.
+- Test each route — **GET**, **POST**, **PUT**, **DELETE**.
+- Add assertions for response codes and data.
+- Use pre-request scripts to dynamically set up the base URL.
+
+### 📘 Resource
+🔗 [Postman Collections Documentation](https://learning.postman.com/docs/collections/using-collections/)
+
+---
+
+## 🧠 Task 4 — Personal Growth: Tech Mindset Rewire
+**⏰ Time:** 10 min  
+**🎯 Goal:** Strengthen your **consistency** and **reflection** habits.
+
+### 📝 What to Do
+- Listen to a summary of **"Atomic Habits"** (YouTube / Podcast).
+- Write one *small win* from today in your **progress notes** (GitHub README or personal notebook).
+
+---
+
+### 💡 Pro Tip
+Consistency > Intensity  
+Every small task today builds the foundation for your future SDE mindset.
+
+---
