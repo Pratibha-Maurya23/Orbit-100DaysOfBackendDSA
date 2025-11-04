@@ -1,0 +1,42 @@
+📅 Date: 04-11-2025
+💻 Day 6
+
+🧱 Task 1 — Backend: CRUD API using Express + MongoDB
+⏰ Time: 45–50 min
+📘 Goal: Build a full REST API (Create, Read, Update, Delete) using Express and MongoDB.
+🧩 What to Do:
+    Create routes: /add, /get, /update/:id, /delete/:id
+    Use Mongoose for schema and model
+    Test all routes with Thunder Client or Postman
+📖 Resource:
+👉 CRUD Operations in MongoDB with Node.js (GFG)
+
+🧮 Task 2 — DSA: HashMap Pattern
+⏰ Time: 30–35 min
+📘 Goal: Strengthen problem-solving using HashMaps (core for frequency/counting-based questions).
+🧩 Problem to Solve:
+ 🔹 LeetCode: Two Sum
+ 🔹 (Bonus if time allows: LeetCode: Group Anagrams)
+📖 Resource:
+👉 HashMap Pattern in Coding (GFG)
+
+☁️ Task 3 — AWS: IAM Permissions Deep Dive
+⏰ Time: 25–30 min
+📘 Goal: Understand IAM roles, policies, and permissions in detail.
+🧩 What to Do:
+    Read how IAM roles differ from users
+    Create a custom policy with limited access (like read-only for S3)
+    Explore “Least Privilege Principle”
+📖 Resource:
+ 👉 AWS IAM Policy Basics
+
+💬 Task 4 — English Speaking: Tech Explanation Practice
+⏰ Time: 10–15 min
+📘 Goal: Improve clarity when explaining technical topics.
+🧩 What to Do:
+     Pick your CRUD API and record yourself explaining:
+    “What is REST API and how CRUD works?”
+     Say it in simple words like you’re teaching a beginner.
+🎯 Bonus: Note one new technical term you used confidently!
+📖 Resource:
+👉 How to Explain Tech Concepts Simply (GFG English for Placements)
