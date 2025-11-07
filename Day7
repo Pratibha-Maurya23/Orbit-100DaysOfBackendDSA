@@ -1,0 +1,68 @@
+# 💻 Day 7  
+
+---
+
+## 🧱 Task 1 — Backend: Authentication Middleware + Refresh Token System  
+⏰ **Time:** 45–50 min  
+
+📘 **Goal:** Add a secure refresh token mechanism to your login API.  
+
+🧩 **What to Do:**  
+- Create `/refresh-token` route.  
+- Store refresh tokens securely (in DB or memory).  
+- Use middleware to verify both access & refresh tokens before profile access.  
+
+📖 **Resources:**  
+- 👉 [JWT Refresh Token Implementation (GeeksforGeeks)](https://www.geeksforgeeks.org/refresh-token-with-jwt-authentication-in-node-js/)  
+- 👉 [Express Middleware Docs](https://expressjs.com/en/guide/writing-middleware.html)  
+
+---
+
+## 🧮 Task 2 — DSA: Prefix Sum + Hashing (Advanced Level)  
+⏰ **Time:** 40 min  
+
+📘 **Goal:** Learn how to use prefix sums with hashing for subarray problems.  
+
+🧩 **Problems to Solve:**  
+- 🔹 [LeetCode: Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  
+- 🔹 *(Bonus)* [LeetCode: Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)  
+
+📖 **Resource:**  
+- 👉 [Prefix Sum Technique – GeeksforGeeks](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/)  
+
+---
+
+## ☁️ Task 3 — AWS: Launch & Connect EC2 Instance  
+⏰ **Time:** 30 min  
+
+📘 **Goal:** Hands-on with EC2 for hosting your first Node.js app.  
+
+🧩 **What to Do:**  
+- Launch an **EC2 instance** (Ubuntu Free Tier).  
+- Connect via **SSH** (Windows Terminal or Git Bash).  
+- Install **Node.js** and verify version.  
+
+📖 **Resource:**  
+- 👉 [AWS EC2: Launch and Connect Guide](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)  
+
+---
+
+## 💬 Task 4 — English Speaking: 2-Minute Tech Pitch  
+⏰ **Time:** 10–15 min  
+
+📘 **Goal:** Build your confidence in explaining your work.  
+
+🧩 **What to Do:**  
+Explain your project (for example, your **Auth API**) in English as if you’re presenting in an interview.  
+
+🎯 Use this 3-step structure:  
+1️⃣ What the project does  
+2️⃣ What tech stack it uses  
+3️⃣ What challenges you solved  
+
+📖 **Resource:**  
+- 👉 [How to Explain Projects in Interviews – GeeksforGeeks](https://www.geeksforgeeks.org/how-to-explain-projects-in-interviews/)  
+
+---
+
+✨ **Stay consistent and confident — your skills are growing every day!** 🚀  
