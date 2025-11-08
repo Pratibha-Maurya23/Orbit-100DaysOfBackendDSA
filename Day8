@@ -1,0 +1,69 @@
+# 📅 Date: 06-11-2025  
+# 💻 Day 8  
+
+---
+
+## 🧱 Task 1 — Backend: Deploy Node.js App on EC2  
+⏰ **Time:** 45–60 min  
+
+📘 **Goal:** Host your backend app live on an EC2 instance.  
+
+🧩 **What to Do:**  
+- SSH into your EC2 instance (you already practiced this yesterday).  
+- Install **Node.js** and **npm**.  
+- Clone your **Auth API** project from GitHub onto the server.  
+- Run `npm install` → `node server.js`.  
+- Open inbound port **5000** (or **80**) to make it publicly accessible.  
+
+📖 **Resources:**  
+- 👉 [AWS Docs – Deploy Node.js on EC2](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html)  
+- 👉 [Medium Guide – Deploy Express App on AWS EC2](https://medium.com/@aayushjain833/how-to-deploy-node-js-app-on-aws-ec2-ubuntu-instance-step-by-step-guide-7e8e8c6f92f6)  
+
+---
+
+## 🧮 Task 2 — DSA: Binary Search Pattern (Must-Know for Interviews)  
+⏰ **Time:** 40 min  
+
+📘 **Goal:** Learn how to apply binary search in sorted arrays and answer range queries efficiently.  
+
+🧩 **Problems to Solve:**  
+- 🔹 [LeetCode: Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  
+- 🔹 [LeetCode: Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  
+
+📖 **Resource:**  
+- 👉 [Binary Search Iterative + Recursive – GeeksforGeeks](https://www.geeksforgeeks.org/binary-search/)  
+
+---
+
+## ☁️ Task 3 — AWS: Elastic IP and Basic Security Groups  
+⏰ **Time:** 25–30 min  
+
+📘 **Goal:** Learn to make your EC2 IP persistent and secure.  
+
+🧩 **What to Do:**  
+- Allocate an **Elastic IP** and attach it to your instance.  
+- Create a **custom security group** (open only needed ports).  
+- Reboot and verify your server stays accessible.  
+
+📖 **Resource:**  
+- 👉 [AWS Elastic IP Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html)  
+
+---
+
+## 💬 Task 4 — English Speaking: Interview Mock Intro  
+⏰ **Time:** 10 min  
+
+📘 **Goal:** Sound natural and confident when introducing yourself in tech interviews.  
+
+🧩 **What to Do:**  
+Stand in front of a mirror or record yourself and say:  
+> “Hi, I’m **Pratibha Maurya**, a CSE student passionate about **Backend Development and DSA**. Recently, I deployed a **Node.js app on AWS EC2** and am working on enhancing its scalability.”  
+Repeat until you can say it **fluidly** without pausing or translating in your head.  
+
+📖 **Resource:**  
+- 👉 [Self Introduction for Interview (GeeksforGeeks)](https://www.geeksforgeeks.org/self-introduction-for-interview-freshers/)  
+
+---
+
+✨ **Keep building. Keep learning. Keep deploying!**  
+💪 Every task takes you one step closer to your SDE dream 🚀  
