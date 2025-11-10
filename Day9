@@ -1,0 +1,72 @@
+# 📅 Date: 07-11-2025  
+# 💻 Day 9  
+
+---
+
+## 🧱 Task 1 — Backend: Environment Variables & Config Management  
+⏰ **Time:** 40 min  
+
+📘 **Goal:** Secure and organize your backend environment settings for production-ready apps.  
+
+🧩 **What to Do:**  
+- Create a `config/` folder and move your `.env` variables into it.  
+- Learn how to use `dotenv` safely (`require('dotenv').config()` only once).  
+- Use `process.env.PORT` and `process.env.MONGO_URL` instead of hard-coding.  
+- Add a fallback default port when environment variables aren’t set.  
+
+📖 **Resources:**  
+- 👉 [Node.js Environment Variables Guide (GeeksforGeeks)](https://www.geeksforgeeks.org/node-js-environment-variables/)  
+- 👉 [Best Practices for .env Files – 12-Factor App](https://12factor.net/config)  
+
+---
+
+## ☁️ Task 2 — AWS: Load Balancing + Scalability Basics  
+⏰ **Time:** 45–60 min  
+
+📘 **Goal:** Understand how AWS Elastic Load Balancers (ELB) distribute traffic across multiple servers.  
+
+🧩 **What to Do:**  
+- Read how **ELB** works (Application vs. Network Load Balancer).  
+- Learn how to connect multiple **EC2 instances** behind one load balancer.  
+- Study scaling concepts: **Auto-Scaling Groups**, **Health Checks**, **Target Groups**.  
+- *(Optional Hands-On)* Simulate by launching **2 EC2s** with Node.js apps showing different “server IDs” in responses, then route via ELB.  
+
+📖 **Resources:**  
+- 👉 [AWS Elastic Load Balancing Docs](https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html)  
+- 👉 [Tutorial – Set Up Load Balancer Step by Step](https://aws.amazon.com/getting-started/hands-on/)  
+
+---
+
+## 🧮 Task 3 — DSA Lite: Binary Search Applications  
+⏰ **Time:** 30 min  
+
+📘 **Goal:** Strengthen applied binary-search problems that deal with search space reduction.  
+
+🧩 **Problems to Solve:**  
+- 🔹 [LeetCode: Capacity to Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)  
+- 🔹 [LeetCode: Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)  
+
+📖 **Resource:**  
+- 👉 [Binary Search on Answer – GeeksforGeeks](https://www.geeksforgeeks.org/binary-search-on-answers/)  
+
+---
+
+## 💬 Task 4 — English Speaking: Explaining Scalability Simply  
+⏰ **Time:** 10 min  
+
+📘 **Goal:** Learn to explain complex backend topics in fluent, simple English.  
+
+🧩 **What to Do:**  
+Speak (or record) a **1-minute explanation**:  
+> “What is load balancing and why is it important for backend scalability?”  
+
+Use connectors like:  
+*“Basically,”*, *“In simple terms,”*, *“This ensures,”*, *“So that the server doesn’t crash when…”*  
+
+📖 **Resource:**  
+- 👉 [How to Explain Technical Concepts in Interviews – GeeksforGeeks](https://www.geeksforgeeks.org/how-to-explain-technical-concepts-in-interviews/)  
+
+---
+
+✨ **Stay structured, stay scalable, stay consistent.**  
+💪 Every day’s effort compounds into engineering mastery 🚀  
