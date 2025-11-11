@@ -1,0 +1,80 @@
+# 💻 Day 10  
+
+---
+
+## 🧮 Task 1 — DSA Core: Linked List Fundamentals  
+⏰ **Time:** 40–45 min  
+
+📘 **Goal:** Master Linked List creation, traversal, and key operations.  
+
+🧩 **What to Do:**  
+- Implement a **singly linked list** from scratch in Java.  
+- Write functions for:  
+  ➜ Insert at head  
+  ➜ Insert at end  
+  ➜ Delete by value  
+  ➜ Reverse the list (iterative method)  
+- Dry-run and print outputs step-by-step.  
+
+📖 **Resources:**  
+- 👉 [Linked List Data Structure – GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/linked-list/)  
+- 👉 [Reverse a Linked List – GeeksforGeeks](https://www.geeksforgeeks.org/reverse-a-linked-list/)  
+
+---
+
+## 🧩 Task 2 — DSA: Recursion Practice (Core Logic)  
+⏰ **Time:** 40 min  
+
+📘 **Goal:** Strengthen recursive thinking and call-stack understanding.  
+
+🧩 **Problems to Solve:**  
+- 🔹 [LeetCode: Subsets](https://leetcode.com/problems/subsets/)  
+- 🔹 [LeetCode: Combination Sum](https://leetcode.com/problems/combination-sum/)  
+- 🔹 *(Bonus)* [GFG: Print All Subsequences](https://www.geeksforgeeks.org/print-all-subsequences-of-a-string/)  
+
+📖 **Resource:**  
+- 👉 [Recursion and Backtracking – GeeksforGeeks](https://www.geeksforgeeks.org/recursion/)  
+
+---
+
+## 🧱 Task 3 — Backend Mini Maintenance (Optional Refresh)  
+⏰ **Time:** 25 min  
+
+📘 **Goal:** Keep your backend structure neat and scalable.  
+
+🧩 **What to Do:**  
+- Refactor your **Express app structure** into separate folders:  
+```
+/routes
+/controllers
+/models
+/config
+```
+- Use `module.exports` and `require()` cleanly for modular code organization.  
+
+📖 **Resource:**  
+- 👉 [Node.js Project Structure Best Practices](https://dev.to/nermineslimane/best-practices-for-structuring-nodejs-express-applications-45h9)  
+
+---
+
+## 💬 Task 4 — English Speaking: Explaining Recursion to a 10-Year-Old  
+⏰ **Time:** 10–15 min  
+
+📘 **Goal:** Improve clarity and simplify complex logic in your explanations.  
+
+🧩 **What to Do:**  
+Pretend you’re explaining recursion to a child — no technical jargon, just storytelling!  
+
+🗣️ Start like this:  
+> “Imagine you have a set of Russian dolls — each doll opens to reveal a smaller one inside…”  
+
+Then connect it to recursion:  
+> “Just like that, a recursive function keeps calling itself until it reaches the smallest doll — the base case!”  
+
+📖 **Resource:**  
+- 👉 [How to Explain Technical Topics in Simple Language – GeeksforGeeks](https://www.geeksforgeeks.org/how-to-explain-technical-topics-in-simple-language/)  
+
+---
+
+✨ **Remember:** Clean logic, clean structure, and clear communication make you a powerful developer.  
+🚀 Keep progressing with purpose and consistency!  
