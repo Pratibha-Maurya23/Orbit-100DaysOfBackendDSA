@@ -1,0 +1,45 @@
+# 💻 Day 11 — Project Core Setup & Architecture + DSA Refresher  
+
+## 🧱 Task 1 — Backend: MERN Architecture Setup  
+⏰ **Time:** 1.5 hrs  
+
+📘 **Goal:** Set up the foundation of your **Smart Medicine Availability System** and connect the backend to **MongoDB Atlas**.  
+
+🧩 **What to Do (Format Overview):**  
+1️⃣ Create main project folder: 
+2️⃣ Inside it, make two subfolders:  
+3️⃣ Initialize backend and install dependencies:  
+4️⃣Connect to MongoDB using Mongoose in `server.js`.
+5️⃣ Plan 3 modules for upcoming phases:  
+- User → Registration & Login  
+- Pharmacy → Stock Management  
+- Admin → Global Monitoring  
+
+📖 **Resources:**  
+- 👉 [MERN Folder Structure Guide – GeeksforGeeks](https://www.geeksforgeeks.org/mern-stack-project-structure-best-practices/)  
+- 👉 [MongoDB Atlas Setup Guide](https://www.mongodb.com/docs/atlas/getting-started/)  
+
+---
+
+## 🧮 Task 2 — DSA: HashMap Refresher (Light Practice)  
+⏰ **Time:** 30–35 min  
+
+📘 **Goal:** Strengthen your understanding of **hash-based problem-solving** used in real-world scenarios.  
+
+🧩 **Problem to Solve:**  
+- 🔹 [LeetCode: Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  
+  📌 *Focus:* Prefix Sum + HashMap logic.  
+
+🧩 **Bonus Thinking:**  
+In your **Smart Medicine Availability System**, think of using a similar idea for real-time medicine tracking:  
+> “Maintain a running total of available stock per medicine — like a prefix sum of stock updates.”  
+
+📖 **Resource:**  
+- 👉 [Prefix Sum + HashMap Explained – GeeksforGeeks](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/)  
+
+---
+
+✨ **Every great system begins with a solid foundation.**  
+💪 Build clean, scale smart, and stay consistent 🚀  
+
+
