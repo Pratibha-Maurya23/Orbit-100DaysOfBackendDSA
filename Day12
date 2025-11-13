@@ -9,7 +9,7 @@ Design clean database schemas for your system, plan REST APIs smartly, and stren
 
 ---
 
-## 🧱 Task 1 — Backend: Database Design & API Planning  
+##Task :  Backend: Database Design & API Planning  
 ⏰ **1.5 hrs** (split into 3 phases of 30 min each)  
 
 📘 **Goal:**  
@@ -29,21 +29,3 @@ npm install express-validator
 
 👉 Designing REST APIs – GeeksforGeeks
 👉 Mongoose Schema & Relationships
-
-Task 2 — DSA: Prefix Sum + HashMap Pattern
-
-⏰ 30–35 min
-
-📘 Goal:
-Level up from Two Sum → Apply cumulative logic for subarray problems (real interview trend).
-
-🧩 Problem to Solve:
-🔹 LeetCode: Subarray Sum Equals K
-(Use Prefix Sum + HashMap for O(n) time.)
-
-🧩 Bonus Thinking:
-Think how this applies to your project —
-Counting number of pharmacies that have at least K units of a medicine → similar logic of cumulative tracking.
-
-📖 Resource:
-👉 Prefix Sum + HashMap Explained – GeeksforGeeks
