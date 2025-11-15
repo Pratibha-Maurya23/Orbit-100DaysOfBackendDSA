@@ -1,0 +1,67 @@
+# 💻 Day 15 — DAA + OOSD Sync + DSA (Binary Search Revision)
+
+---
+
+## 🧱 Task 1 — DAA + OOSD Sync  
+⏰ **Time:** 1 hr  
+
+📘 **Goal:**  
+Strengthen **algorithmic understanding** and **object-oriented design** — both important for exams AND your Smart Medicine System project.
+
+---
+
+### 🔹 1️⃣ DAA (Design & Analysis of Algorithms) – 30 min  
+**Topic:** Search Optimization + Big-O Thinking  
+
+🧩 **What to Do:**  
+- Revise **Linear Search vs Binary Search**.  
+- Write when **binary search *cannot* be used**.  
+- Understand how binary search reduces time from **O(n) → O(log n)**.  
+
+📝 **Apply to your project (5 min):**  
+Write 3 lines on:  
+> “How binary search could help if I sort the medicine names or stock list.”  
+
+📖 **Resource:**  
+👉 [Binary Search Analysis – GeeksforGeeks](https://www.geeksforgeeks.org/time-complexity-of-binary-search/)  
+
+---
+
+### 🔹 2️⃣ OOSD (Object-Oriented System Design) – 30 min  
+**Topic:** Modular Design in JavaScript (OOP Concepts)  
+
+🧩 **What to Do:**  
+Revise the **4 pillars of OOP**:  
+- Encapsulation  
+- Inheritance  
+- Abstraction  
+- Polymorphism  
+
+Then write how your **MERN project uses OOP concepts**:  
+- **Model = Class**  
+- **Controller = Behavior**  
+- **Route = Interface**  
+- **Mongo Documents = Objects**  
+
+📖 **Resource:**  
+👉 [OOP in JavaScript – GeeksforGeeks](https://www.geeksforgeeks.org/object-oriented-programming-in-javascript/)  
+
+---
+
+## 🧮 Task 2 — DSA: Binary Search (Revision, Not Covered This Week Yet)  
+⏰ **Time:** 30–35 min  
+
+📘 **Goal:**  
+Keep your DSA practice active **without repeating topics already covered this week**.
+
+🧩 **Problem to Solve (Choose ONE):**  
+- 🔹 **Binary Search Basic**  
+  https://leetcode.com/problems/binary-search/  
+**OR**  
+- 🔹 **First Bad Version** *(interview favorite)*  
+  https://leetcode.com/problems/first-bad-version/  
+
+📖 **Resource:**  
+👉 [Binary Search Pattern – GeeksforGeeks](https://www.geeksforgeeks.org/binary-search/)  
+
+
