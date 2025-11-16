@@ -1,0 +1,86 @@
+# 💻 Day 16 — AWS + Deployment Prep (Light) + DSA (Stack Revision)  
+*(This matches your weekly Day 5 + introduces a new DSA topic for the week)*  
+
+---
+
+## 🧱 Task 1 — AWS + Deployment Prep (Light Study Day)  
+⏰ **Time:** 1 hr  
+
+📘 **Goal:**  
+Understand how your project will be deployed later — without heavy configurations.  
+Perfect for **exam season** and light learning.  
+
+---
+
+### 🧩 1️⃣ EC2 Overview (20 min)  
+Study:  
+- What is **EC2**?  
+- How does a server run **24/7**?  
+- Why do backend apps deploy on **EC2**?  
+
+---
+
+### 🧩 2️⃣ MongoDB Atlas + EC2 Concept (15 min)  
+Understand this workflow:  
+
+**Frontend → Backend (EC2) → Database (Atlas Cloud)**  
+
+✍️ Write this as a **5-step flow** in your notebook.  
+
+---
+
+### 🧩 3️⃣ .env + Security Basics (15 min)  
+Learn:  
+- What is `.env`?  
+- Why secrets should **never** be pushed to GitHub?  
+- What happens if a DB password becomes public?  
+
+---
+
+### 🧩 4️⃣ Quick Practical Note (Optional)  
+Open your project and check:  
+- `.env` is added to `.gitignore`  
+- Folder structure is clean (routes/controllers/models/config)  
+
+---
+
+📖 **Resources:**  
+- 👉 [EC2 Beginner Guide – AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)  
+- 👉 Deploy MERN to EC2 (Short YouTube Tutorials)  
+- 👉 [.env & Security Best Practices – GeeksforGeeks](https://www.geeksforgeeks.org/node-js-environment-variables/)  
+
+---
+
+## 🧮 Task 2 — DSA: Stack Revision (Not Done This Week Yet)  
+⏰ **Time:** 30–35 min  
+
+📘 **Goal:**  
+Refresh the **Stack** pattern — commonly used in WT, DAA, backend logic, and interviews.  
+
+---
+
+### 🧩 Problem to Solve (Choose ONE):  
+🔹 **Valid Parentheses**  
+https://leetcode.com/problems/valid-parentheses/  
+
+**OR**  
+
+🔹 **Min Stack** *(Interview Favorite)*  
+https://leetcode.com/problems/min-stack/  
+
+---
+
+### 🧠 Why This Helps Your Project  
+You will use **stack-like behavior** in:  
+- API middleware sequencing  
+- Error handling flow  
+- Managing async operations  
+
+---
+
+📖 **Resource:**  
+👉 [Stack Data Structure – GeeksforGeeks](https://www.geeksforgeeks.org/stack-data-structure/)  
+
+---
+
+🚀 Keep going — consistency wins every time!  
