@@ -1,0 +1,99 @@
+# 💻 Day 19 — DBMS Core Exam Revision + DSA (Problem 3)  
+### Light + Powerful (Perfect for exam week!)
+
+---
+
+## 🧱 Task 1 — DBMS Important Topics Revision (Sessionals Focus)  
+⏰ **7.5 / 8 hrs**
+
+📘 **Goal:**  
+Revise **all high-weight DBMS topics** that repeatedly come in AKTU sessionals.
+
+---
+
+# 🔥 Part A — SQL Concepts & Operations  
+
+### 📌 Revise These Topics  
+- SQL Operators & Their Procedure  
+- Tables, Views, Indexes  
+- Queries & Subqueries  
+- Aggregate Functions (SUM, AVG, MIN, MAX, COUNT)  
+- INSERT, UPDATE, DELETE  
+- Joins (INNER, LEFT, RIGHT, FULL)  
+- UNION, INTERSECTION, MINUS  
+- Cursors  
+- Triggers  
+- Stored Procedures (SQL / PL/SQL)  
+
+---
+
+### 📝 What to Do  
+Write **1–2 examples** for:  
+- ✔ Join  
+- ✔ Subquery  
+- ✔ Trigger  
+- ✔ Stored procedure  
+
+Write definitions for:  
+- ✔ View  
+- ✔ Index  
+- ✔ Cursor  
+
+---
+
+📖 **Resources:**  
+- 👉 [SQL Basics – GeeksforGeeks](https://www.geeksforgeeks.org/sql-tutorial/)  
+- 👉 [Triggers & Procedures – GFG](https://www.geeksforgeeks.org/difference-between-stored-procedure-and-trigger-in-sql/)  
+- 👉 Joins Visual Explanation – YouTube (any short tutorial)
+
+---
+
+# 🔥 Part B — Database Design & Normalization  
+
+### 📌 Revise These Concepts  
+- Functional Dependencies (FD)  
+- 1NF, 2NF, 3NF  
+- BCNF  
+- Inclusion Dependence  
+- Lossless Join Decomposition  
+- Normalization using FD, MVD (Multivalued Dependency), JD (Join Dependency)  
+- Alternative Approaches to DB Design (ER → Relational → Schema Refinement)  
+
+---
+
+### 📝 What to Do  
+- Convert **one table** into:  
+  **1NF → 2NF → 3NF → BCNF**  
+- Write **4 differences** between:  
+  ✔ *3NF vs BCNF*  
+- Write short notes on:  
+  ✔ Lossless join  
+  ✔ Dependency preservation  
+
+---
+
+📖 **Resources:**  
+- 👉 [Normalization – GFG](https://www.geeksforgeeks.org/normalization-in-dbms/)  
+- 👉 [Lossless Join & FD – GFG](https://www.geeksforgeeks.org/lossless-join-and-dependency-preservation/)  
+- 👉 [Multivalued Dependency – TutorialsPoint](https://www.tutorialspoint.com/dbms/dbms_multivalued_dependencies.htm)  
+
+---
+
+## 🧮 Task 2 — DSA Problem 3: **Find the Difference of Two Arrays**  
+⏰ **20–25 min**  
+💡 Light DSA for consistency during exam week.
+
+### 🔗 Problem Link  
+https://leetcode.com/problems/find-the-difference-of-two-arrays/
+
+---
+
+### 🎯 Concepts Used  
+- Set  
+- Hashing  
+- Difference operation  
+
+---
+
+📖 **Resource:**  
+👉 [HashSet in Java – GeeksforGeeks](https://www.geeksforgeeks.org/hashset-in-java/)  
