@@ -1,0 +1,112 @@
+# 💜 Day 20 — ML ST-2 Revision + DSA Problem #4  
+### Light + High Impact (Perfect for Exam Week)
+
+---
+
+## 🧠 Task 1 — Machine Learning (ST-2 Core Topics)  
+⏰ **3 / 4 hrs**  
+
+These topics are **EXACTLY** from your syllabus:  
+**SVM + Decision Tree + Instance-Based Learning**  
+Your goal: memorize definitions, diagrams, workflows — required for AKTU exams.
+
+---
+
+# 🔷 Part A — Support Vector Machine (SVM)
+
+### 📌 Study Topics  
+- Introduction to SVM  
+- Types of kernels:  
+  ✔ Linear kernel  
+  ✔ Polynomial kernel  
+  ✔ Gaussian (RBF) kernel  
+- Hyperplane / Decision surface  
+- Properties of SVM  
+- Issues with SVM (large memory, slow training, kernel selection)
+
+---
+
+### 🎯 What to Revise  
+- Draw **hyperplane + margin** diagram  
+- Write **short notes** on each kernel (2 lines each)  
+- Write **pros vs cons** of SVM  
+
+---
+
+📖 **Resources:**  
+- 👉 [SVM Explained – GeeksforGeeks](https://www.geeksforgeeks.org/support-vector-machine-introduction/)  
+- 👉 Kernel Tricks – YouTube (3 min)
+
+---
+
+# 🔷 Part B — Decision Tree Learning
+
+### 📌 Study Topics  
+- Decision Tree Learning Algorithm  
+- Inductive Bias  
+- Entropy & Information Theory  
+- Information Gain  
+- ID3 Algorithm  
+- Issues: overfitting, multi-valued attribute bias  
+
+---
+
+### 🎯 What to Revise  
+- **Entropy formula**  
+- **Information gain example**  
+- One **decision tree diagram**  
+- **4 bullet points**: Issues in Decision Tree Learning  
+
+---
+
+📖 **Resources:**  
+- 👉 [Entropy & Information Gain – GFG](https://www.geeksforgeeks.org/entropy-and-information-gain-in-decision-tree-ml/)  
+- 👉 ID3 Algorithm (YouTube – 6 min)
+
+---
+
+# 🔷 Part C — Instance-Based Learning (IBL)  
+
+### 📌 Study Topics  
+- k-NN  
+- Locally Weighted Regression  
+- Radial Basis Function Networks (RBF)  
+- Case-based learning  
+
+---
+
+### 🎯 What to Revise  
+- Steps of **kNN algorithm**  
+- Distance metrics: **Euclidean, Manhattan**  
+- Use cases of **RBF networks**  
+- 2 lines on **case-based learning**  
+
+---
+
+📖 **Resources:**  
+- 👉 [k-NN — GeeksforGeeks](https://www.geeksforgeeks.org/k-nearest-neighbours/)  
+- 👉 Radial Basis Function Networks (Simple Explanation)
+
+---
+
+## 🧮 Task 2 — DSA Problem #4  
+### **Unique Number of Occurrences**  
+⏰ **20–25 min**  
+
+This is your next exam-week DSA problem.
+
+### 🔗 Problem Link  
+https://leetcode.com/problems/unique-number-of-occurrences/
+
+---
+
+### 🎯 Concepts Used  
+- **HashMap** → Count occurrences  
+- **HashSet** → Check if counts are unique  
+
+---
+
+📖 **Resource:**  
+👉 [HashMap + HashSet in Java – GFG](https://www.geeksforgeeks.org/hashset-in-java/)  
+
+---
