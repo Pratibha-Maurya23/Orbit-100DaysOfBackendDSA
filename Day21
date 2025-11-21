@@ -1,0 +1,148 @@
+# 💻 Day 21 — WT (Web Technology) Exam Focus + DSA + Habit System  
+⏰ **Total Time:** ~5 hrs (light & focused for exam day)
+
+📘 **Main Goal:**  
+Prepare WT paper topics, maintain DSA consistency, and protect your discipline habits.
+
+---
+
+## 🧱 Task 1 — WT Theory Revision (CSS + JavaScript + Networking)  
+⏰ **Time:** 4–5 hrs
+
+---
+
+### 🔹 Part A — CSS Advanced (Core Theory for Exam)
+
+📖 **Topics to Study:**  
+- Grouping selectors  
+- Dimensions (width, height, min/max)  
+- Display (block, inline, inline-block, none)  
+- Positioning (static, relative, absolute, fixed)  
+- Floating & Clearing  
+- Align (text-align, vertical-align)  
+- Pseudo-classes (`:hover`, `:active`, `:visited`)  
+- Navigation Bar (menu design concept)  
+- Image Sprites  
+- Attribute Selectors  
+- CSS Colors  
+- Creating Page Layout  
+- Site Design Concepts  
+
+📝 **What to Do:**  
+- Write **1–2 lines explanation** for each topic  
+- Draw **one simple page layout diagram**  
+
+📖 **Resources:**  
+- https://www.geeksforgeeks.org/css-tutorial/  
+- https://www.w3schools.com/css/  
+
+---
+
+### 🔹 Part B — JavaScript Basics (Scripting Section)
+
+📖 **Topics to Study:**  
+- JavaScript Introduction  
+- DOM (Document Object Model)  
+- Form Validation  
+- Statements (if, loops)  
+- Functions  
+- Objects  
+
+📝 **What to Do:**  
+- Write **one sample function** in your notebook  
+- Write **one example of a JS object**
+
+📖 **Resources:**  
+- https://www.geeksforgeeks.org/javascript/  
+- https://www.w3schools.com/js/  
+
+---
+
+### 🔹 Part C — Networking Concepts (High-Scoring Theory)
+
+📖 **Topics to Study:**  
+- Internet Addressing  
+- InetAddress  
+- Factory Methods  
+- Instance Methods  
+- TCP/IP Client Sockets  
+- TCP/IP Server Sockets  
+- URL & URL Connections  
+- Datagram  
+
+📝 **What to Do:**  
+Write short definitions of:  
+- URL  
+- TCP/IP  
+- Socket  
+- Datagram  
+
+📖 **Resources:**  
+- https://www.geeksforgeeks.org/computer-network-tutorials/  
+- https://www.javatpoint.com/computer-network-tutorial  
+
+---
+
+## 🧮 Task 2 — DSA Exam Practice (2 Problems)  
+⏰ **Time:** 35–40 min
+
+### ✅ Problem #5  
+**Determine if Two Strings Are Close**  
+🔗 https://leetcode.com/problems/determine-if-two-strings-are-close/
+
+### ✅ Problem #6  
+**Equal Row and Column Pairs**  
+🔗 https://leetcode.com/problems/equal-row-and-column-pairs/
+
+📘 **Concepts Used:**  
+- HashMap  
+- Frequency counting  
+- Matrix traversal  
+- Arrays as HashMap keys  
+
+📖 **Resource:**  
+- https://www.geeksforgeeks.org/hashing-data-structure/
+
+---
+
+## 💜 Task 3 — Orbit Habit System (Daily Discipline)  
+⏰ **Time:** 10–15 min
+
+### 🌅 Morning Rule  
+- No phone for first **30 minutes**  
+- Drink water  
+- 5 deep breaths  
+
+---
+
+### 🚫 No-Series Rule  
+- No Netflix / Reels / Binge during study hours  
+- Follow: **1 hr focus → 5 min break → repeat**
+
+---
+
+### 📖 Reading Habit (10 min)  
+Read **3–5 pages** from:  
+- *Atomic Habits*
+
+---
+
+### 🌙 Night Shutdown Routine (10:45 PM)  
+- Close laptop  
+- Write:  
+  - ✅ What I completed  
+  - 📝 What I’ll do tomorrow  
+- Sleep by **11:00 PM**
+
+---
+
+### 🗣️ Mini English Confidence Task (2 min)  
+Say this aloud:  
+
+> “CSS helps us control the layout, design, and responsiveness of a web page, while JavaScript adds behavior and interactivity.”
+
+---
+
+✨ **Orbit Note:**  
+Even during exams — discipline + small DSA practice = long-term success.  
+You’re balancing everything beautifully 💜🚀  
