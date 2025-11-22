@@ -1,0 +1,63 @@
+# 💻 Day 22 — Backend Strength + DSA Stack Focus + Habit System  
+⏰ **Total Time:** ~2 hrs  
+
+📘 **Main Goal:**  
+Restart backend momentum and practice **stack-based DSA patterns** for interviews.
+
+---
+
+## 🧱 Task 1 — Backend: Refresh Token + Secure Routes  
+⏰ **Time:** 45–50 min  
+
+📘 **Goal:** Strengthen real-world authentication logic.  
+
+🧩 **What to Do:**  
+- Add **refresh token logic** in your backend project.  
+- Create **middleware** for protected routes.  
+- Ensure token validation works correctly.  
+
+📖 **Resource:**  
+- 👉 [JWT Refresh Token – GeeksforGeeks](https://www.geeksforgeeks.org/rest-api-authentication-java-script-and-node-js-jwt-token/)  
+
+---
+
+## 🧮 Task 2 — DSA: Stack Based Problems  
+⏰ **Time:** 45–50 min  
+
+📘 **Goal:** Master the **stack pattern** for string and array problems.  
+
+### ✅ Problems to Solve  
+1️⃣ **2390. Removing Stars From a String**  
+🔗 https://leetcode.com/problems/removing-stars-from-a-string/  
+
+2️⃣ **735. Asteroid Collision**  
+🔗 https://leetcode.com/problems/asteroid-collision/  
+
+3️⃣ **394. Decode String**  
+🔗 https://leetcode.com/problems/decode-string/  
+
+📖 **Resource:**  
+- 👉 [Stack Data Structure – GeeksforGeeks](https://www.geeksforgeeks.org/stack-data-structure/)  
+
+---
+
+## 💜 Task 3 — Orbit Habit System  
+⏰ **Time:** 10–15 min  
+
+✅ No series during work time  
+✅ 10 min book reading  
+✅ Focus cycle → **1 hr work, 5 min break**  
+✅ Night shutdown at **11:45 PM**
+
+---
+
+## 🗣️ Mini English Practice (2 min)  
+Say this aloud:  
+
+> “Stack data structure follows the LIFO principle and is useful in string parsing and expression evaluation.”
+
+---
+
+✨ **Orbit Note:**  
+You’re rebuilding momentum the smart way — **backend + DSA + discipline**.  
+Keep going, you’re unstoppable 💜🚀  
