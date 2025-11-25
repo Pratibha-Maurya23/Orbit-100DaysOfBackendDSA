@@ -13,8 +13,7 @@ app.use(express.urlencoded({extended:true}));
 app.use(cors({
   origin: [
     "http://localhost:5173",
-    "http://localhost:3000",
-    "https://your-frontend-domain.com"
+    "http://16.171.129.231:5000",
   ],
   credentials: true
 }));
@@ -26,10 +25,10 @@ app.use("/api/users", userRouter);
 const PORT = config.port;
 const MONGO_URL = config.mongoURL;
 
-mongoose.connect(process.env.MONGO_URL)
+mongoose.connect(MONGO_URL)
 .then(()=>{
   console.log("DB Connected ");
-app.listen(PORT,()=>console.log(`Server running at http://localhost:${PORT}`));
+app.listen(PORT,"0.0.0.0",()=>console.log(`Server running at ${PORT}`));
 
 })
 .catch((err)=>console.log(err));
