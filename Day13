@@ -1,0 +1,77 @@
+# 💻 Day 13 — Database Design & API Blueprint + DSA (Prefix Sum Light)  
+*(This matches “Day 2” of your weekly academic plan — with included DSA)*  
+
+---
+
+## 🧱 Task 1 — Backend: Database Design & API Blueprint  
+⏰ **Time:** 1 hr  
+
+📘 **Goal:**  
+Shape the database structure of your **Smart Medicine Availability System** and plan the main backend APIs.  
+
+---
+
+### 🧩 **Step 1️⃣ — Create Database Schemas (on VS Code)**  
+
+Inside `/server/models`, create schema files:  
+
+- **User.js** → `name`, `email`, `password`, `role`  
+- **Pharmacy.js** → `name`, `location`, `contact`, `medicines`  
+- **Medicine.js** → `name`, `stock`, `expiry`, `price`  
+- **Stock.js** *(optional)* → for separate stock tracking  
+
+Keep your schema **simple, clean, and exam-friendly.**  
+
+---
+
+### 🧩 **Step 2️⃣ — API Blueprint (write on paper or Notion)**  
+
+| Endpoint | Method | Purpose |
+|-----------|---------|----------|
+| `/pharmacy/register` | POST | Register pharmacy |
+| `/medicine/add` | POST | Add new medicine |
+| `/medicine/search` | GET | Search medicine by name |
+| `/medicine/update-stock` | PUT | Update stock quantity |
+| `/medicine/expired` | GET | Show expired medicines |
+
+📌 *You don’t need to code them today — just plan and define their purpose clearly.*  
+
+---
+
+### 🧩 **Step 3️⃣ — Relationship Mapping**  
+
+Write these 3 key points to understand your system’s relationships:  
+- 🏪 One **pharmacy** → multiple **medicines**  
+- 💊 One **medicine record** → belongs to one **pharmacy**  
+- 🔁 **Stock updates** ↔ reflected in real-time **search results**  
+
+---
+
+📖 **Resources:**  
+- 👉 [Designing REST APIs – GeeksforGeeks](https://www.geeksforgeeks.org/rest-api-design-best-practices/)  
+- 👉 [Mongoose Schema & Relationships](https://mongoosejs.com/docs/guide.html#relationships)  
+
+---
+
+## 🧮 Task 2 — DSA: Two Pointer Revision (Light Day, No New Load)  
+⏰ **Time:** 30 min  
+
+📘 **Goal:**  
+Refresh the **two-pointer logic** used in arrays and strings — crucial for exams and interviews.  
+
+🧩 **Problems to Practice:**  
+- 🔹 [Move Zeroes – LeetCode](https://leetcode.com/problems/move-zeroes/)  
+- 🔹 [Valid Palindrome – LeetCode](https://leetcode.com/problems/valid-palindrome/)  
+
+📌 *Pick **any ONE** problem (not both) — it’s a light DSA day.*  
+
+📖 **Resource:**  
+- 👉 [Two Pointer Technique – GeeksforGeeks](https://www.geeksforgeeks.org/two-pointers-technique/)  
+
+---
+
+✨ **Orbit Note:**  
+Today’s focus is on **planning**, not pressure.  
+A well-thought-out database and API design now will make your future coding sessions smoother and more scalable 🚀  
+
+💪 *Design smart, code clean, and stay consistent.*  

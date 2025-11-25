@@ -1,0 +1,87 @@
+# 💻 Day 24 — Project Dev + AWS Continuation + DSA (Queue Focus)  
+
+⏰ **Total Time:** ~2.5 hrs  
+
+📘 **Main Goal:**  
+Build real working project features and strengthen queue-based DSA logic.
+
+---
+
+## 🧱 Task 1 — Project: Core Feature Development  
+⏰ **Time:** 1 hr 15 min  
+
+📘 **Goal:** Move towards a working website, not just backend.  
+
+🧩 **What to Do:**  
+- Add **Add Medicine API**  
+- Add **Get All Medicines API**  
+- Connect these APIs to your database  
+
+🧪 **Test these routes using Browser / Postman:**  
+```
+/api/medicine/add
+/api/medicine/all
+```
+
+📖 **Resources:**  
+- 👉 Express Routing: https://www.geeksforgeeks.org/express-js-routing/  
+- 👉 Mongoose CRUD: https://mongoosejs.com/docs/models.html  
+
+---
+
+## ☁️ Task 2 — AWS Continuation (Where You Left Before)  
+⏰ **Time:** 25–30 min  
+
+📘 **Goal:** Understand how backend connects to the cloud.  
+
+🧩 **What to Study:**  
+- What is an **EC2 instance**?  
+- What is a **key pair**?  
+- What is a **security group**?  
+
+📖 **Resources:**  
+- 👉 AWS EC2 Docs: https://docs.aws.amazon.com/ec2/  
+- 👉 GFG EC2 Intro: https://www.geeksforgeeks.org/introduction-to-amazon-ec2/  
+
+---
+
+## 🧮 Task 3 — DSA Practice (Queue Based)  
+⏰ **Time:** 45–50 min  
+
+✅ **Problem 1:**  
+**933. Number of Recent Calls**  
+🔗 https://leetcode.com/problems/number-of-recent-calls/  
+
+✅ **Problem 2:**  
+**649. Dota2 Senate**  
+🔗 https://leetcode.com/problems/dota2-senate/  
+
+📘 **Concepts Used:**  
+- Queue  
+- Simulation  
+
+📖 **Resource:**  
+- 👉 Queue Data Structure (GFG): https://www.geeksforgeeks.org/queue-data-structure/  
+
+---
+
+## 💜 Task 4 — Habit & Discipline System  
+⏰ **Time:** 10–15 min  
+
+✅ No series during work  
+✅ 10 min book reading  
+✅ Follow **1 hour focus → short break → repeat**  
+
+🌙 **Night Rule (10:45 PM):**  
+Write:  
+- ✅ What I did today  
+- 📝 What I’ll do tomorrow  
+
+---
+
+## 🗣️ Mini English Practice (2 min)  
+Say aloud:  
+
+> “Today I practiced backend development, AWS cloud basics, and queue-based DSA problems.”
+
+--- 

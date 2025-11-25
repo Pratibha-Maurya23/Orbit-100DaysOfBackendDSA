@@ -1,0 +1,147 @@
+# 💻 Day 18 — OOSD Exam-Focused Revision (Unit 2 + Unit 3 Topics) + DSA (Pivot Index)
+
+---
+
+## 🧱 Task 1 — OOSD Revision (Fully from Syllabus)  
+⏰ **Time:** 7.5 / 8 hrs (Exam Mode)
+
+📘 **Goal:**  
+Cover the highest-scoring **OOSD topics** from Unit 2 & Unit 3:  
+Behavioral Modeling, Architectural Modeling, OOA, OOD, SA/SD, JSD, OOP Style.
+
+---
+
+# 🎯 Part A — Behavioral & Architectural Modeling (Unit 2)
+
+### 📌 Revise These UML Diagrams  
+- ✔ Use Case Diagram  
+- ✔ Activity Diagram  
+- ✔ State Machine Diagram  
+- ✔ Interaction Diagram (Sequence vs Collaboration)  
+- ✔ Component Diagram  
+- ✔ Deployment Diagram  
+- ✔ Package Diagram  
+- ✔ Events & Signals  
+- ✔ Process and Thread  
+
+---
+
+### 📝 What to Do  
+- Draw **1 Use Case Diagram** *(ATM OR Library)*  
+- Draw **1 State Machine Diagram** *(Bulb OR Login)*  
+- Draw **1 Deployment Diagram** *(Mobile Banking OR E-commerce)*  
+
+---
+
+📖 **Resources:**  
+- 👉 [UML Diagrams – GeeksforGeeks](https://www.geeksforgeeks.org/unified-modeling-language-uml-cheat-sheet/)  
+- 👉 [Behavioral Modeling – TutorialsPoint](https://www.tutorialspoint.com/software_engineering/software_engineering_behavioral_modeling.htm)  
+
+---
+
+# 🎯 Part B — Object-Oriented Analysis & Object Design (Unit 3)
+
+### 📌 Revise Concepts  
+- Object-Oriented Analysis  
+- Object-Oriented Design  
+- Combining the three models  
+- Designing algorithms  
+- Design optimization  
+- Implementation of control  
+- Adjustment of inheritance  
+- Object representation  
+- Physical packaging  
+- Documenting design considerations  
+
+---
+
+### 📝 What to Do  
+- Write **5 points each**: OOA vs OOD  
+- Write **3 examples** of inheritance adjustments  
+- Draw a **small physical packaging diagram**:  
+```
+Package
+↳ Subpackage
+↳ Classes
+```
+
+---
+
+📖 **Resources:**  
+- 👉 [Object-Oriented Analysis & Design – GFG](https://www.geeksforgeeks.org/object-oriented-analysis-and-design-ooad/)  
+- 👉 [OOA vs OOD – GFG](https://www.geeksforgeeks.org/difference-between-ooa-and-ood/)  
+- 👉 [Design Optimization – TutorialsPoint](https://www.tutorialspoint.com/software_engineering/software_engineering_design_optimization.htm)  
+
+---
+
+# 🎯 Part C — SA/SD + Jackson System Development (Unit 3)
+
+### 📌 Revise  
+- Structured Analysis  
+- Structured Design  
+- SA/SD vs OMT  
+- Jackson Structured Development (JSD)  
+- JSD merits & demerits  
+
+---
+
+### 📝 What to Do  
+- Write **3 differences**: SA/SD vs OMT  
+- Write **1 example** of a simple JSD hierarchy  
+
+---
+
+📖 **Resources:**  
+- 👉 [SA/SD – GeeksforGeeks](https://www.geeksforgeeks.org/structured-analysis-in-software-engineering/)  
+- 👉 [Jackson Structured Development – TutorialsPoint](https://www.tutorialspoint.com/jackson-system-development)  
+
+---
+
+# 🎯 Part D — Object-Oriented Programming Style
+
+### 📌 Topics to Cover  
+- Reusability  
+- Extensibility  
+- Robustness  
+- Programming in the Large  
+- Procedural vs OOP  
+- Language Features  
+- Abstraction & Encapsulation  
+
+---
+
+### 📝 What to Do  
+Write:  
+- **1 definition + 1 example** for each topic  
+*(Very scoring in exams)*  
+
+---
+
+📖 **Resource:**  
+- 👉 [OOP Style – GeeksforGeeks](https://www.geeksforgeeks.org/object-oriented-programming-oop-style/)  
+
+---
+
+# 🧮 Task 2 — DSA: Pivot Index  
+⏰ **20–25 min**
+
+📘 **Goal:**  
+Continue your exam-week light DSA streak (Problem #2).
+
+---
+
+### 🔗 Problem Link  
+- 👉 https://leetcode.com/problems/find-pivot-index/
+
+---
+
+### 🎯 Focus On  
+- Prefix computation  
+- Left sum vs right sum  
+- Clean Java implementation  
+
+---
+
+📖 **Resource:**  
+- 👉 [Prefix Sum Concepts – GeeksforGeeks](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/)  
+

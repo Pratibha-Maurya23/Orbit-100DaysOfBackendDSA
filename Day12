@@ -1,0 +1,31 @@
+# 💻 Day 12 — Database Design & API Blueprint + DSA (Prefix Sum Pattern)  
+
+⏰ **Total Time:** ~2 hrs (split sessions)  
+🔹 **1.5 hrs → Project Backend (DB Design + APIs)**  
+🔹 **30 mins → DSA Conceptual Practice**  
+
+📘 **Main Goal:**  
+Design clean database schemas for your system, plan REST APIs smartly, and strengthen your DSA with prefix-based logical reasoning.  
+
+---
+
+##Task :  Backend: Database Design & API Planning  
+⏰ **1.5 hrs** (split into 3 phases of 30 min each)  
+
+📘 **Goal:**  
+Create database structure and basic API plan for your **Smart Medicine Availability System**.  
+
+---
+
+### **Phase 1️⃣ — Mongoose Schema Design**  
+In `/models`, create schemas for **User**, **Pharmacy**, and **Medicine**.  
+Phase 2️⃣ — Plan API Endpoints (on paper or Notion)
+Phase 3️⃣ — Add Validation & Environment Setup
+
+🧩 Install express-validator for input validation:
+npm install express-validator
+
+📖 Resources:
+
+👉 Designing REST APIs – GeeksforGeeks
+👉 Mongoose Schema & Relationships

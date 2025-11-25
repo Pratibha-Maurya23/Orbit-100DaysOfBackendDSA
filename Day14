@@ -1,0 +1,82 @@
+# 💻 Day 14 — WT + DBMS Integration Study + DSA (Sliding Window Revision)  
+
+---
+
+## 🧱 Task 1 — WT + DBMS Integration Study  
+⏰ **Time:** 1 hr  
+
+📘 **Goal:**  
+Connect your **academic syllabus (WT + DBMS)** with your **MERN project** to make **viva + exams** easier and more meaningful.  
+
+---
+
+### 🧩 **Step 1️⃣ — WT (Web Technology) – Concept Bridge (20 min)**  
+
+📘 **What to Do:**  
+Understand & write short notes on the following:  
+- How **Servlets** handle requests vs. how **Express.js** handles requests.  
+- **Session management** in Servlet vs. **JWT** in MERN.  
+
+💡 Write **5 bullet points** comparing **WT concepts with Node.js (Express)**.  
+This helps you:  
+- Build strong conceptual clarity.  
+- Impress teachers during viva.  
+- Explain backend logic confidently.  
+
+📖 **Resource:**  
+- 👉 [Web Technology Notes – GeeksforGeeks](https://www.geeksforgeeks.org/web-technology/)  
+
+---
+
+### 🧩 **Step 2️⃣ — DBMS – Apply Concepts to Your Project (30–40 min)**  
+
+📘 **What to Do:**  
+Based on your **Smart Medicine Availability System**:  
+
+✔ **Draw an ER Diagram** for:  
+- User  
+- Pharmacy  
+- Medicine  
+- Stock  
+
+✔ **Identify Normal Forms** (1NF → 3NF)  
+
+✔ **Write 3 Sample SQL Queries:**  
+```sql
+-- 1️⃣ Find all pharmacies with “Paracetamol”
+SELECT * FROM Pharmacy WHERE medicine_name = 'Paracetamol';
+
+-- 2️⃣ List medicines that are expired
+SELECT name, expiry FROM Medicine WHERE expiry < CURDATE();
+
+-- 3️⃣ Total stock per medicine
+SELECT name, SUM(stock) AS total_stock FROM Medicine GROUP BY name;
+## 📖 Resources  
+- 👉 [DBMS Normalization – GeeksforGeeks](https://www.geeksforgeeks.org/normalization-in-dbms/)  
+- 👉 [ER Diagrams – GeeksforGeeks](https://www.geeksforgeeks.org/er-model-in-dbms/)  
+
+---
+
+## 🧮 Task 2 — DSA: Sliding Window Revision (Not Covered This Week Yet)  
+⏰ **Time:** 30 min  
+
+📘 **Goal:**  
+Light revision of one of the most common and powerful **coding interview patterns** — the **Sliding Window** technique.  
+*(Since we haven’t practiced it this week.)*  
+
+---
+
+### 🧩 Problem to Practice (Pick ONE):  
+
+🔹 **Maximum Average Subarray I – LeetCode**  
+https://leetcode.com/problems/maximum-average-subarray-i/  
+
+**OR**  
+
+🔹 **Longest Substring with At Most Two Distinct Characters (Fruit Into Baskets) – LeetCode**  
+https://leetcode.com/problems/fruit-into-baskets/  
+
+---
+
+## 📖 Resource  
+👉 [Sliding Window Pattern – GeeksforGeeks](https://www.geeksforgeeks.org/window-sliding-technique/)  

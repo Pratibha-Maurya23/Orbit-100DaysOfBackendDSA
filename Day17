@@ -1,0 +1,40 @@
+# 💻 Day 17 — DAA Revision (Exam Mode) + DSA (Highest Altitude)
+
+---
+
+## 🧱 Task 1 — DAA Revision (High-Yield Exam Topics)  
+⏰ **Time:** 6 hrs  
+
+📘 **Goal:**  
+*Topics to be studied in DAA during ST2 preparation:*
+1️⃣ UNIT-2 (Total weightage in ST2 --- 10 M)*
+1. Binomial Heap ---- (Algo imp -- (Union of two binomial heap) + Numericals discussed)
+2. Fibonacci heap ---- (Algo imp -- (Decrease key operation in fibonacci heap) + Numericals discussed)
+3. Red Black tree( Deletion)
+4. Tries and Skip list ( Theory question can be asked ).
+2️⃣ UNIT-3 (Total weightage in ST2 --- 20 M)*
+1. Introduction to Greedy Algorithms
+     a. Activity selection problem (Algo + Numerical)
+     b. Fractional Knapsack
+     c. Minimum spanning tree 
+            ---> Kruskal ( Algo+numerical+complexity analysis)
+            ---> Prims ( Algo+numerical+complexity analysis)
+    d. Single source shortest path
+            ---> Dijkstra ( Algo+numerical+complexity analysis)
+            ---> Bellman ford ( Algo+numerical+complexity analysis)
+2. Convex hull ( Theory Question )
+3. Strassens's multipication ( Numerical on the basis of formula as discussed )
+
+📖 **Resources:**  
+👉 Thomas H. Cormen: Books (DAA)
+
+## 🧮 Task 2 — DSA: Find the Highest Altitude  
+⏰ **Time:** 20–25 min  
+
+### 🧩 Problem Link  
+🔹 https://leetcode.com/problems/find-the-highest-altitude/
+
+### 🎯 What to Practice  
+- Prefix sum logic (easy version)  
+- Iteration + maintaining max value  
+- Clean Java solution  
