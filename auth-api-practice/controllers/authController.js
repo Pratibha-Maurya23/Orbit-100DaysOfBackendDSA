@@ -8,10 +8,10 @@ const User = require('../models/user');
 // Register
 exports.registerUser = async (req, res) =>{
     try{
-  const {email, password,name,age} = req.body;
+  const { email, password, name, age, role } = req.body;
 
   const hashedPass = await bcrypt.hash(password, 10);
-  const newUser  = await User.create({ email, password:hashedPass,name,age});
+  const newUser  = await User.create({ email, password:hashedPass,name,age,role});
 
   res.status(201).json({message: "User register ☑️",user:newUser});
 }catch(err){
@@ -36,12 +36,14 @@ exports.loginUser = async (req, res) => {
   const refreshtoken = jwt.sign(payload, process.env.REFRESH_SECRET, { expiresIn: '7d' });
 
 
-  console.log("Access Token:", accesstoken);
-  console.log("Refresh Token:", refreshtoken);
-
   refreshTokens.push(refreshtoken);
 
-  res.json({accesstoken,refreshtoken});
+  res.json({accesstoken,refreshtoken,user: {
+        id: user._id,
+        name: user.name,
+        email: user.email,
+        role: user.role
+      }});
   } catch (err) {
     res.status(500).json({ message: err.message });
   }
