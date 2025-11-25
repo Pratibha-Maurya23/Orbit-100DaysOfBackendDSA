@@ -1,0 +1,107 @@
+# 💻 Day 25 — Pending Project + AWS + Graph DSA + SQL Practice  
+⏰ **Total Time:** ~2–2.5 hrs  
+
+📘 **Main Goal:**  
+Finish pending backend + AWS work and shift DSA toward **Graphs** + **SQL-based problems**.
+
+---
+
+## 🧱 Task 1 — Project: Complete Pending Backend APIs  
+⏰ **Time:** 1 hr 10 min  
+
+📘 **Goal:** Move towards a working website, not just backend.  
+
+🧩 **What to Do:**  
+- Add **Add Medicine API** properly  
+- Add **Get All Medicines API**  
+- Connect these APIs with your database  
+
+🧪 **Test these APIs using Browser / Postman:**  
+```
+/api/medicine/add
+/api/medicine/all
+```
+
+📖 **Resources:**  
+- 👉 Express Routing (GFG): https://www.geeksforgeeks.org/express-js-routing/  
+- 👉 Mongoose CRUD: https://mongoosejs.com/docs/models.html  
+
+---
+
+## ☁️ Task 2 — AWS Continuation  
+⏰ **Time:** 30 min  
+
+📘 **Goal:** Resume AWS from where you stopped.  
+
+🧩 **What to Study:**  
+- What is a **Key Pair**  
+- What are **Security Groups**  
+- Inbound vs Outbound rules  
+
+📖 **Resources:**  
+- 👉 EC2 Basics: https://docs.aws.amazon.com/ec2/  
+- 👉 Security Groups: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-security-groups.html  
+
+---
+
+## 🧮 Task 3 — DSA: Graph Learning (New Focus)  
+⏰ **Time:** 30–35 min  
+
+📘 **Goal:** Start working with **Graph** concepts.  
+
+🧩 **What to Study:**  
+- What is a **Graph**  
+- Types: Directed / Undirected  
+- BFS (Breadth-First Search)  
+- DFS (Depth-First Search)  
+
+📖 **Resources:**  
+- 👉 Graph Basics – GFG: https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/  
+- 👉 BFS – GFG: https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/  
+- 👉 DFS – GFG: https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/  
+
+---
+
+## 🧮 Task 4 — LeetCode SQL Practice  
+⏰ **Time:** 30–35 min  
+
+📘 **Goal:** Strengthen **SQL** for interviews.  
+
+### ✅ Problems to Solve  
+1️⃣ **Recyclable and Low Fat Products**  
+https://leetcode.com/problems/recyclable-and-low-fat-products/  
+
+2️⃣ **Find Customer Referee**  
+https://leetcode.com/problems/find-customer-referee/  
+
+3️⃣ **Biggest Single Number**  
+https://leetcode.com/problems/biggest-single-number/  
+
+📖 **Resource:**  
+- 👉 SQL Basics for Interviews – GFG: https://www.geeksforgeeks.org/sql-tutorial/  
+
+---
+
+## 💜 Task 5 — Habit System (Light + Stable)  
+⏰ **Time:** 10–15 min  
+
+✅ No series during work  
+✅ 10 min reading  
+✅ Phone away while studying  
+
+🌙 **Night Notes:**  
+- ✅ What I completed  
+- 📝 What is pending  
+
+---
+
+## 🗣️ English Practice (2 min)  
+Say aloud:  
+
+> “Graphs help in representing real-world networks like maps and connections. SQL helps me handle structured data efficiently.”
+
+---
+
+✨ **Orbit Note:**  
+You’re now moving into advanced DSA and real backend building.  
+This is where strong developers are built — keep going 💜🚀  
