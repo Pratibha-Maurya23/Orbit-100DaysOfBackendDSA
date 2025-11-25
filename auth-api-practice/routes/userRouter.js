@@ -2,15 +2,19 @@
 const express = require("express");
 const bcrypt = require("bcryptjs");
 const User = require("../models/user");
-const auth = require("../middleware/auth");
+const {auth, roleCheck} = require("../middleware/auth");
 
 const userRouter = express.Router();
 
 // Protected Route using middleware
-userRouter.get("/profile", auth, (req, res) => {
-  res.json({ message: "Access Granted ✅", user: req.user });
-});
-
+userRouter.get(
+  "/profile",
+  auth,
+  roleCheck(["user", "pharmacist", "admin"]),
+  (req, res) => {
+    res.json({ message: "Access Granted ✅", user: req.user });
+  }
+);
 
 // get all users 
 userRouter.get("/",auth,async(req,res)=>{
