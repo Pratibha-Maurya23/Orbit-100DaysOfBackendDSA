@@ -1,0 +1,88 @@
+# 💻 Day 27 — Pending Project + AWS + Light DSA  
+⏰ **Total Time:** ~2 hrs  
+
+📘 **Main Goal:**  
+Move your project closer to the working stage while keeping your DSA habit alive.
+
+---
+
+## 🧱 Task 1 — Project: Complete Pending Backend APIs  
+⏰ **Time:** 1 hr 10 min  
+
+📘 **Goal:** Move towards a working website, not just backend.  
+
+🧩 **What to Do:**  
+- Add **Add Medicine API** properly  
+- Add **Get All Medicines API**  
+- Connect these APIs with **MongoDB**  
+
+🧪 **Test in Postman:**  
+```
+/api/medicine/add
+/api/medicine/all
+```
+
+📖 **Resources:**  
+- 👉 Express Routing (GFG):  
+  https://www.geeksforgeeks.org/express-js-routing/  
+- 👉 Mongoose CRUD:  
+  https://mongoosejs.com/docs/models.html  
+
+---
+
+## ☁️ Task 2 — AWS Continuation  
+⏰ **Time:** 30 min  
+
+📘 **Goal:** Resume AWS learning.  
+
+🧩 **What to Do:**  
+- Understand **Key Pair**  
+- Understand **Security Groups**  
+- Learn **Inbound vs Outbound rules**  
+
+📖 **Resources:**  
+- 👉 EC2 Basics:  
+  https://docs.aws.amazon.com/ec2/  
+- 👉 Security Groups:  
+  https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-security-groups.html  
+
+---
+
+## 🧮 Task 3 — DSA (Light Practice as Buffer)  
+⏰ **Time:** 20–25 min  
+
+📘 **Goal:** Keep your brain active without overload.  
+
+🧩 **What to Revise:**  
+- Stack  
+- Queue  
+- HashMap concepts  
+
+📖 **Resource:**  
+- 👉 DSA Revision – GFG:  
+  https://www.geeksforgeeks.org/data-structures/  
+
+---
+
+## 💜 Task 4 — Habit System  
+⏰ **Time:** 10–15 min  
+
+✅ No series during work  
+✅ Read **5–7 pages** of any book  
+
+🌙 **Night Reflection:**  
+- ✅ What I finished  
+- 📝 What is pending  
+
+---
+
+## 🎙 English Confidence (2 min)  
+Say aloud:  
+
+> “Today I worked on backend APIs and cloud concepts while keeping my discipline strong.”
+
+---
+
+✨ **Orbit Note:**  
+You’re building discipline and real project strength together.  
+Small daily effort = big long-term success 💜🚀
