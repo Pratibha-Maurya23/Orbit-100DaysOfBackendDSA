@@ -1,0 +1,97 @@
+# 💻 Day 28 — DSA First + HealHub Frontend + Discipline Mode 💜  
+⏰ **Total Time:** ~2.5 hrs  
+
+📘 **Main Goal:**  
+Strengthen DSA core (**Trees + DFS + Tries**) and move your **HealHub frontend** toward a working product.
+
+---
+
+## 🧮 Task 1 — DSA: Tree + DFS + New Concept (Tries)  
+⏰ **Time:** 1 hr 15 min  
+
+📘 **Goal:** Strengthen tree traversal using **DFS** and introduce the **Trie** data structure.
+
+---
+
+### 🔹 Part A — Learn DFS Tree Traversal  
+
+🧩 **What to Study:**  
+- Preorder Traversal  
+- Inorder Traversal  
+- Postorder Traversal  
+
+📖 **Resource:**  
+- 👉 Tree Traversals – GFG  
+  https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
+
+---
+
+### 🔹 Part B — Practice LeetCode (Your Given Problems ✅)  
+
+✅ **Problem 1:**  
+**1448. Count Good Nodes in Binary Tree**  
+🔗 https://leetcode.com/problems/count-good-nodes-in-binary-tree/  
+
+✅ **Problem 2:**  
+**437. Path Sum III**  
+🔗 https://leetcode.com/problems/path-sum-iii/  
+
+📖 **Resource:**  
+- 👉 DFS in Trees – GFG  
+  https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-tree/
+
+---
+
+### 🔹 Part C — New Concept: Trie (Light Introduction)  
+
+🧩 **What to Learn:**  
+- What is a **Trie**?  
+- Where it is used (auto-complete, search engines, prefix matching)  
+
+📖 **Resource:**  
+- 👉 Trie Data Structure – GFG  
+  https://www.geeksforgeeks.org/trie-insert-and-search/
+
+---
+
+## 🧱 Task 2 — Project: HealHub Frontend API Integration  
+⏰ **Time:** 45–50 min  
+
+📘 **Goal:** Move your frontend toward a working application.
+
+🧩 **What to Do:**  
+- Implement **Add Medicine API** in frontend  
+- Connect **form with backend**  
+- Integrate **User APIs** (Register/Login UI)  
+
+📖 **Resources:**  
+- 👉 Axios (Frontend API Calls)  
+  https://axios-http.com/docs/intro  
+- 👉 React Forms Guide  
+  https://react.dev/learn  
+
+---
+
+## 💜 Task 3 — Habit & Discipline System  
+⏰ **Time:** 10–15 min  
+
+✅ No series  
+✅ No phone during study  
+✅ Read **5–7 pages** of any book  
+
+🌙 **Night Reflection:**  
+- ✅ What I completed  
+- 📝 What is still pending  
+
+---
+
+## 🎙 English Speaking Practice (2 min)  
+Say aloud:  
+
+> “DFS traversal helps me explore tree structures deeply, step by step.”
+
+---
+
+✨ **Orbit Note:**  
+You’re now touching **advanced DSA + real product development** — this is powerful territory 💪💜  
+Stay consistent and stay focused 🚀🌟
