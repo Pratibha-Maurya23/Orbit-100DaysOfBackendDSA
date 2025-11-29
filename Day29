@@ -1,0 +1,90 @@
+# 💻 Day 29 — TRIE Mastery + One Strong DSA + HealHub Progress 💜  
+⏰ **Total Time:** ~2–2.5 hrs  
+
+📘 **Main Goal:**  
+Complete **Trie** data structure, solve your next **binary-tree problem**, and push **HealHub frontend** forward.
+
+---
+
+## 🧮 Task 1 — DSA: TRIE Complete + ZigZag Path Problem  
+⏰ **Time:** 1 hr – 1 hr 10 min  
+
+---
+
+### 🔹 Part A — Complete Trie (Main Focus)  
+📘 **Goal:** Learn full Trie working — extremely important for SDE interviews.
+
+🧩 **What to Learn:**  
+- Trie Node structure  
+- Insert operation  
+- Search operation  
+- StartsWith (prefix search)  
+- Write code once (Java/JS)  
+- Real-world use cases: autocomplete, prefix matching, spell-check  
+
+📖 **Resources:**  
+- 👉 Trie Insert + Search – GFG  
+  https://www.geeksforgeeks.org/trie-insert-and-search/  
+- 👉 Trie Full Video (Optional)  
+  https://www.youtube.com/watch?v=AXjmTQ8LEoI  
+
+---
+
+### 🔹 Part B — DSA Question (Your chosen one)  
+✅ **Problem:**  
+**1372. Longest ZigZag Path in a Binary Tree**  
+🔗 https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/  
+
+📘 **Concepts:**  
+- DFS  
+- Backtracking  
+- Recursive max tracking  
+
+📖 **Resource:**  
+- 👉 DFS on Trees – GFG  
+  https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-tree/
+
+---
+
+## 🧱 Task 2 — Project (HealHub): Integrate Medicine API UI  
+⏰ **Time:** 40–45 min  
+
+📘 **Goal:** Make your project **usable from frontend**.
+
+🧩 **What to Do:**  
+- Create **Add Medicine UI** form  
+- Connect with backend using **Axios**  
+- Show **success/error** message  
+- Test using **console** & **network tab**  
+
+📖 **Resources:**  
+- 👉 Axios + React  
+  https://axios-http.com/docs/post_example  
+- 👉 React State Handling  
+  https://react.dev/learn  
+
+---
+
+## 💜 Task 3 — Habit System (Daily Discipline)  
+⏰ **Time:** 10–15 min  
+
+✅ No series during focused hours  
+✅ 10 min reading  
+✅ 1-hour focus cycle → 5 min break  
+
+🌙 **Reflection:**  
+- “What I did great today” — *(write 1 line)*  
+- “What I’ll fix tomorrow” — *(write 1 line)*  
+
+---
+
+## 🎤 English Mini Practice (1–2 min)  
+Say aloud:  
+
+> **“Today I mastered Tries and improved my ability to solve tree-based problems confidently.”**
+
+---
+
+✨ **Orbit Note:**  
+Day 29 is a strong blend of **advanced DSA + real development** — you’re becoming unstoppable 💜🚀
+
