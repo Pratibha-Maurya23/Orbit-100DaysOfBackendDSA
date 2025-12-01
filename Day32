@@ -1,0 +1,96 @@
+# 💻 Day 31 — DSA (Tries + Trees) + HealHub Build + AWS Deepening 💜  
+⏰ **Total Time:** ~2 hrs  
+
+📘 **Main Goal:**  
+Strengthen **DSA (Tries + Trees)**, build real **HealHub features**, and deepen **AWS understanding** slowly.
+
+---
+
+## 🧮 Task 1 — DSA (Primary Task)  
+⏰ **Time:** 1 hr – 1 hr 10 min  
+
+---
+
+### 🔹 Part A — Trie Revision (10–15 min)  
+📘 **Goal:** Refresh yesterday’s Trie learning.
+
+🧩 **What to Do:**  
+Re-write quickly:  
+- `TrieNode` structure  
+- `insert()`  
+- `search()`  
+
+---
+
+### 🔹 Part B — NEW Concept: **Suffix Trie**  
+📘 **Goal:** Learn how suffix tries help in substring search.  
+
+🧩 **Understand the Difference:**  
+- **Trie →** Prefix tree  
+- **Suffix Trie →** Stores *all suffixes* of a string  
+
+🧩 **Use Case:**  
+- Faster substring search  
+- Pattern matching  
+
+📖 **Resource:**  
+👉 Suffix Trie – GFG  
+https://www.geeksforgeeks.org/pattern-searching-using-trie-suffixes  
+
+---
+
+## 🧱 Task 2 — HealHub Project (API Integration Day)  
+⏰ **Time:** 40–45 min  
+
+📘 **Goal:** Build actual working frontend features.
+
+🧩 **What to Do:**  
+- Complete **Add Medicine UI → API call**  
+- Complete **User Register/Login** integration  
+- Test all requests in **Browser DevTools (Network tab)**  
+
+📖 **Resources:**  
+- 👉 Axios + React  
+  https://axios-http.com/docs/post_example  
+- 👉 React Handling Forms  
+  https://react.dev/learn  
+
+---
+
+## ☁️ Task 3 — AWS (Pending Continued)  
+⏰ **Time:** 20–25 min  
+
+📘 **Goal:** Build a strong AWS foundation.
+
+🧩 **What to Understand:**  
+- What is **SSH**?  
+- Why EC2 needs a **Key Pair**  
+- Why Security Groups control **ports**  
+
+📺 **Watch (short video):**  
+👉 Port & Security Group Basics  
+https://youtu.be/UBOJzOf8l14?si=cF1W4dKSBeAmYTSX  
+
+---
+
+## 💜 Task 4 — Habit System (Daily Discipline)  
+⏰ **Time:** 10 min  
+
+✨ **Rules Today:**  
+- No series  
+- 10 min book reading  
+- Phone away during coding  
+- Sleep at **11 PM**  
+
+---
+
+## 🎙 English Practice (1–2 min)  
+Say aloud:  
+
+> **“Consistency is my superpower. I learn, build, and improve every single day.”**
+
+---
+
+✨ **Orbit Note:**  
+Day 31 is strong — Tries, Suffix Tries, AWS, and real frontend progress.  
+Your consistency is becoming unstoppable 🚀💜  
