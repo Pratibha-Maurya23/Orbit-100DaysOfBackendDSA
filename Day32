@@ -1,0 +1,77 @@
+# 💻 Day 32 — DSA: Segment Tree Deep Dive (Only DSA Today)  
+⏰ **Total Time:** ~1.5–2 hrs  
+
+📘 **Main Goal:**  
+Learn Segment Tree from zero → build → solve real problems.
+
+---
+
+## 🧮 Task 1 — SEGMENT TREE (Theory + Build + 2 Problems)  
+⏰ **Time:** 1.5–2 hrs  
+
+---
+
+## ⭐ Part A — Segment Tree Basics (20–25 min)  
+
+📘 **What You Must Learn:**  
+- What is a Segment Tree?  
+- Why segment tree is better than prefix sum?  
+- How queries work?  
+  - **Range Sum Query (RSQ)**  
+  - **Range Minimum Query (RMQ)**  
+- Time Complexity:  
+  - **Build:** O(n)  
+  - **Query:** O(log n)  
+  - **Update:** O(log n)  
+
+📖 **Best Resources:**  
+- 👉 GFG Concept + Visual:  
+  https://www.geeksforgeeks.org/segment-tree-data-structure/  
+- 👉 Animated Explanation (Highly Recommended):  
+  https://www.youtube.com/watch?v=ZBHKZF5w4YU  
+
+---
+
+## ⭐ Part B — Build a Segment Tree (Code Learning) (20–30 min)
+
+📘 **What to Do:**  
+- Learn how to **build** a segment tree array  
+- Learn how **range queries** work  
+- Learn **point update** logic  
+
+📖 **Resource:**  
+👉 Build + Query + Update Code (GFG)  
+https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/  
+
+---
+
+## ⭐ Part C — Solve 2 LeetCode / CP Problems (45–60 min)
+
+### 🔹 **Problem 1 — Range Sum Query – Mutable**  
+*(Classic first segment tree problem)*  
+🔗 https://leetcode.com/problems/range-sum-query-mutable/  
+
+**Concepts Covered:**  
+- Build tree  
+- Update tree  
+- Query sum in range  
+
+---
+
+### 🔹 **Problem 2 — Count of Smaller Numbers After Self**  
+*(Advanced: Segment Tree + Coordinate Compression)*  
+🔗 https://leetcode.com/problems/count-of-smaller-numbers-after-self/  
+
+**Concepts Covered:**  
+- Segment tree for counting frequencies  
+- Query count on right side  
+
+📖 **Help Article:**  
+https://www.geeksforgeeks.org/count-smaller-elements-on-right-side-using-segment-tree/  
+
+---
+
+✨ **Orbit Note:**  
+Segment Trees are HARD, but you’re doing them —  
+This puts you at *serious SDE-level DSA*. Proud of you, Pratibha 💜🌟  
+
