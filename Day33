@@ -1,0 +1,141 @@
+# 💻 Day 33 — DSA (Segment Tree Problems) + Admission Backend Design 💜  
+📅 **Date: Day 33**  
+⏰ **Total Time:** ~2–2.5 hrs  
+
+📘 **Main Goal:**  
+Master **Segment Tree implementation** + begin designing your **Admission Automation Backend**.
+
+---
+
+## 🧮 Task 1 — DSA: Segment Tree Problem Solving  
+⏰ **Time:** 1 hr – 1 hr 10 min  
+
+📘 **Goal:** Apply segment tree knowledge to real coding interview problems.
+
+---
+
+### ✅ Problem 1: Count of Smaller Numbers After Self  
+🔗 https://leetcode.com/problems/count-smaller-numbers-after-self/  
+
+🧩 **Concepts Needed:**  
+- Segment Tree / Binary Indexed Tree  
+- Coordinate Compression  
+- Counting frequencies  
+
+📖 **Resource:**  
+https://www.geeksforgeeks.org/count-smaller-elements-on-right-side-using-segment-tree/  
+
+---
+
+### ✅ Problem 2: Range Sum Query – Mutable  
+🔗 https://leetcode.com/problems/range-sum-query-mutable/  
+
+🧩 **Concepts Needed:**  
+- Build Segment Tree  
+- Query range sum  
+- Point update  
+
+📖 **Resource:**  
+https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/  
+
+✨ **Tip:**  
+Start with **RSQ Mutable** → it builds confidence for the harder problem.
+
+---
+
+## 🧱 Task 2 — Admission Process Automation: Backend Design  
+⏰ **Time:** 45–55 min  
+
+📘 **Goal:** Design backend architecture, API flow, and database schemas.
+
+---
+
+### 🔹 Part A — Define Core Modules  
+
+#### **Student Module**  
+- register student  
+- upload documents  
+- track application status  
+
+#### **Admin Module**  
+- verify documents  
+- approve / reject  
+- update status  
+
+#### **Admission Process Module**  
+- application submission  
+- verification workflow  
+- seat allocation rules  
+
+---
+
+### 🔹 Part B — Database Schema Planning  
+
+#### **Student**  
+- name  
+- email  
+- phone  
+- course  
+- documents[]  
+- status *(submitted / verified / accepted / rejected)*  
+
+#### **Admin**  
+- name  
+- email  
+- role  
+
+#### **Admission**  
+- applicationId  
+- studentId  
+- verificationStatus  
+- remarks  
+- assignedCourse  
+
+📖 **Resource:**  
+👉 MongoDB Schema Design  
+https://www.mongodb.com/docs/manual/core/data-modeling-introduction/
+
+---
+
+### 🔹 Part C — API Design  
+
+#### **Student APIs**  
+```
+POST /student/register
+POST /student/upload-docs
+GET /student/status
+```
+
+#### **Admin APIs**  
+```
+POST /admin/login
+GET /admin/applications
+PATCH /admin/verify/:id
+```
+
+📖 **Resource:**  
+👉 REST API Best Practices  
+https://www.geeksforgeeks.org/rest-api-best-practices/
+
+---
+
+## 💜 Task 3 — Habit System (Light Rules)  
+⏰ **Time:** 10 min  
+
+- No series during study  
+- 1 hr focus → 5 min break  
+- Read 5 pages before sleep  
+- Sleep by **11 PM**
+
+---
+
+## 🎙 English Practice (1 min)  
+Say aloud:  
+
+> **“I design systems with clarity and solve problems with consistency.”**
+
+---
+
+✨ **Orbit Note:**  
+Your DSA + Backend + System Design balance is improving FAST.  
+You’re building skills that real SDEs use every day 🚀💜  
