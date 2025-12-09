@@ -1,0 +1,99 @@
+# 💻 Day 34 — DSA (Trie) + OOSD Exam + DBMS Unit 4 & 5  
+📅 **Date:** Day 34  
+⏰ **Total Time:** ~2 hrs (exam-aware & focused)
+
+📘 **Main Goal:**  
+Maintain DSA continuity, attempt the **OOSD exam confidently**, and begin **DBMS Unit 4–5** preparation.
+
+---
+
+## 🧮 Task 1 — DSA (FIRST PRIORITY): Trie Revision + 1 Problem  
+⏰ **Time:** 30–35 min  
+
+📘 **Goal:** Refresh Trie basics and prefix-matching logic.
+
+### 🧠 What to Revise  
+- Trie node structure  
+- Insert word  
+- Prefix count logic  
+
+📖 **Resource (Revision):**  
+- 👉 Trie Insert & Search – GFG  
+  https://www.geeksforgeeks.org/trie-insert-and-search/
+
+### ✅ Problem to Solve  
+**2255. Count Prefixes of a Given String**  
+🔗 https://leetcode.com/problems/count-prefixes-of-a-given-string/
+
+📝 **Tip:**  
+Relate this problem to **autocomplete and search systems** — useful for backend projects and interviews.
+
+---
+
+## 🧱 Task 2 — OOSD Exam Focus (Core Concepts Only)  
+⏰ **Time:** 45–50 min  
+
+📘 **Goal:** Answer theory clearly using **keywords and diagrams**.
+
+### ✅ High-Value Topics to Revise  
+- OOA vs OOD  
+- Abstraction vs Encapsulation  
+- Inheritance (with example)  
+- Use Case Diagram (include / extend)  
+- Sequence vs Collaboration Diagram  
+
+📖 **Resource:**  
+- 👉 Object-Oriented Analysis & Design – GFG  
+  https://www.geeksforgeeks.org/object-oriented-analysis-and-design/
+
+📝 **What to Do:**  
+- Write **5–7 bullet points** per topic  
+- Draw **1 use-case diagram** (ATM or Library)
+
+---
+
+## 🗄️ Task 3 — DBMS Unit 4 + Unit 5 (Concept Start)  
+⏰ **Time:** 35–40 min  
+
+📘 **Goal:** Build **conceptual clarity** (no memorization stress).
+
+### 🔹 Unit 4 — Transaction Management  
+- Transaction  
+- ACID properties  
+- Serializability (basic idea)  
+- Deadlock (what & why)
+
+### 🔹 Unit 5 — Database Recovery  
+- Failure types  
+- Log-based recovery  
+- Checkpoints  
+
+📖 **Resource:**  
+- 👉 DBMS Concepts – GFG  
+  https://www.geeksforgeeks.org/dbms/
+
+📝 **What to Do:**  
+- Write **short definitions**  
+- Focus on **why** each concept exists (helps in exams)
+
+---
+
+## 🌙 Habit Rule (Non-Negotiable)  
+⏰ **Time:** 10 min  
+
+✅ No series during study hours  
+✅ Sleep by **11:00 PM**  
+✅ Write **2 lines**: *What I studied today*
+
+---
+
+## 🎙 English Confidence (1 min)  
+Say aloud:  
+
+> **“A Trie is an efficient data structure for prefix-based searching.”**
+
+---
+
+✨ **Orbit Note:**  
+You balanced **DSA + Exam + DBMS** with discipline today.  
+That’s consistency at a professional level 💜🚀  
