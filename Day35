@@ -1,0 +1,107 @@
+# 💻 Day 35 — DSA (Trie) + OTP Verification (Project) + DBMS Revision  
+⏰ **Total Time:** ~2–2.5 hrs  
+
+📘 **Main Goal:**  
+Revise **Trie deeply**, add **OTP verification** to the Admission Automation System, and refresh **DBMS Unit-4** for exams.
+
+---
+
+## 🧮 Task 1 — DSA (FIRST PRIORITY): Trie Revision + 2 Problems  
+⏰ **Time:** 45–50 min  
+
+📘 **Goal:** Strengthen prefix-based logic (highly relevant for interviews & system design).
+
+### 🧠 Trie Revision  
+- Insert word  
+- Search / `startsWith`  
+- Prefix counting  
+- Use cases: autocomplete, search suggestions  
+
+📖 **Resource:**  
+- 👉 Trie Insert & Search – GFG  
+  https://www.geeksforgeeks.org/trie-insert-and-search/
+
+### ✅ Problems to Solve  
+1️⃣ **14. Longest Common Prefix**  
+🔗 https://leetcode.com/problems/longest-common-prefix/  
+
+2️⃣ **1268. Search Suggestions System**  
+🔗 https://leetcode.com/problems/search-suggestions-system/  
+
+📝 **Tip:**  
+For **Search Suggestions**, think **Trie + lexicographically sorted traversal** (top 3 results).
+
+---
+
+## 🧱 Task 2 — Project: OTP Verification  
+**(Admission Automation System)**  
+⏰ **Time:** 50–55 min  
+
+📘 **Goal:** Secure user registration using **OTP verification** (industry-relevant feature).
+
+### 🧩 What to Implement (Backend Only)  
+- Generate OTP (4–6 digits)  
+- Store OTP with expiry (5–10 minutes)  
+- Verify OTP before activating account  
+
+### 🔹 API Flow  
+```
+POST /auth/send-otp
+POST /auth/verify-otp
+```
+
+### 🧠 Concepts to Understand  
+- Random OTP generation  
+- Expiry handling using timestamp  
+- Why OTP is safer than only email/password  
+
+📖 **Resources:**  
+- 👉 OTP Generation in Node.js  
+  https://www.geeksforgeeks.org/otp-generation-in-node-js/  
+- 👉 bcrypt & Security Basics  
+  https://www.geeksforgeeks.org/node-js-password-hashing-using-bcrypt/  
+
+*(SMS / Email integration will be added later — no pressure today.)*
+
+---
+
+## 🗄️ Task 3 — DBMS Unit-4 Revision (Focused Summary)  
+⏰ **Time:** 30–35 min  
+
+📘 **Goal:** Score maximum marks with minimal memorization.
+
+### 📌 Topics to Revise  
+- Transaction System & **ACID properties**  
+- Transaction States & State Diagram  
+- Schedules & Serializability  
+- Recovery System & Log-Based Recovery  
+- Deadlock (what & why)
+
+📖 **Resources:**  
+- https://www.geeksforgeeks.org/acid-properties-in-dbms/  
+- https://www.geeksforgeeks.org/transaction-states-in-dbms/  
+- https://www.geeksforgeeks.org/serializability-in-dbms/  
+- https://www.geeksforgeeks.org/recovery-techniques-in-dbms/  
+- https://www.geeksforgeeks.org/deadlock-in-dbms/  
+
+---
+
+## 🌙 Daily Discipline (Non-Negotiable)  
+⏰ **Time:** 10 min  
+
+✅ No series during work blocks  
+✅ Study → short breaks  
+✅ Sleep by **11:00 PM**
+
+---
+
+## 🎙 English Confidence (1 min)  
+Say aloud:  
+
+> **“Trie is ideal for prefix-based search systems like search suggestions and autocomplete.”**
+
+---
+
+✨ **Orbit Note:**  
+Today’s work connects **DSA + Security + DBMS** —  
+this is exactly how strong backend engineers are built 💜🚀  
