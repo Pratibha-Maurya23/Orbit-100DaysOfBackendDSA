@@ -1,0 +1,136 @@
+# 📅 Day 36 — Resume Backend + AWS + DSA (Trie Advanced)  
+⏰ **Total Time:** ~2 hrs (balanced)
+
+📘 **Main Goal:**  
+Continue your Admission System **backend**, resume **AWS**, and solve **advanced Trie DSA** problems.
+
+---
+
+## 🧮 Task 1 — DSA (FIRST PRIORITY): Trie Application Problems  
+⏰ **Time:** 45–50 min  
+
+📘 **Goal:** Learn how Trie is used in **word segmentation** and **sentence construction** — core interview topics.
+
+---
+
+### ✅ Problem 1 — Word Break  
+🔗 https://leetcode.com/problems/word-break/  
+
+📘 **Concept:**  
+- Use Trie to store dictionary  
+- Use **DP + Trie** to validate splits  
+
+📖 **Resource:**  
+👉 Trie + Word Break Logic  
+https://www.geeksforgeeks.org/word-break-problem-dp-32/
+
+---
+
+### ✅ Problem 2 — Word Break II  
+🔗 https://leetcode.com/problems/word-break-ii/  
+
+📘 **Concept:**  
+- Build Trie from dictionary  
+- **Backtracking + Trie** to build all valid sentences  
+
+📖 **Resource:**  
+👉 Backtracking + Trie  
+https://www.geeksforgeeks.org/word-break-problem-ii-recursive-solution/
+
+---
+
+## 🧱 Task 2 — Backend: Admission Automation APIs  
+⏰ **Time:** 45–50 min  
+
+📘 **Goal:** Continue backend from where you paused before exams.
+
+---
+
+### 🔹 What to Implement Today  
+
+#### 1️⃣ **User Registration + Login Cleanup**  
+- Validate fields  
+- Strengthen schema  
+- Return structured JSON responses  
+
+#### 2️⃣ **OTP Verification Flow (Continue Day 35)**  
+Add fields:  
+- `otp`  
+- `otpExpires`  
+- `isVerified`  
+
+APIs:  
+```
+POST /auth/send-otp
+POST /auth/verify-otp
+```
+
+#### 3️⃣ **Resume Medicine APIs**  
+- Add Medicine API  
+- Get All Medicine API  
+
+---
+
+📖 **Resources:**  
+- 👉 Express Routing  
+  https://www.geeksforgeeks.org/express-js-routing/  
+- 👉 Mongoose Validation  
+  https://mongoosejs.com/docs/validation.html  
+- 👉 OTP Logic Example  
+  https://www.geeksforgeeks.org/otp-generation-in-node-js/  
+
+📝 **Note:**  
+Today is **backend only** — no frontend work.
+
+---
+
+## ☁️ Task 3 — AWS Resume (Continue From Before Exams)  
+⏰ **Time:** 20–25 min  
+
+📘 **Goal:** Restart AWS concepts slowly, without deployment pressure.
+
+---
+
+### 🔹 Topics for Today  
+
+#### 1️⃣ **Key Pairs**  
+- What they are  
+- Why needed for SSH  
+
+#### 2️⃣ **Security Groups**  
+- EC2 virtual firewall  
+- Allows/denies traffic  
+
+#### 3️⃣ **Inbound vs Outbound Rules**  
+- **Inbound:** traffic allowed *into* EC2  
+- **Outbound:** traffic allowed *out* of EC2  
+
+📖 **Resources:**  
+- 👉 EC2 Key Pairs  
+  https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html  
+- 👉 Security Groups  
+  https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-security-groups.html  
+
+📝 No deployment today — only revision.
+
+---
+
+## 🌙 Habit System (Light)  
+⏰ **Time:** 5–10 min  
+
+- No series until tasks are done  
+- Write short notes  
+- Sleep by **11 PM**
+
+---
+
+## 🎙 English Confidence (1 min)  
+Say aloud:  
+
+> **“Trie is ideal for prefix-based search systems like search suggestions and autocomplete.”**
+
+---
+
+✨ **Orbit Note:**  
+Day 36 builds **real backend features + AWS foundation + advanced Trie skills**.  
+This is top-tier SDE preparation 💜🚀  
