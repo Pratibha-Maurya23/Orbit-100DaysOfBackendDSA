@@ -1,0 +1,94 @@
+# 🌙 💻 Day 37 — WT Revision + Segment Tree + 1 DSA Question  
+⏰ **Total Time:** ~1.5 hrs (light & exam-friendly)
+
+📘 **Main Goal:**  
+Strengthen **WT concepts**, revise **Segment Tree**, and keep **DSA consistency** alive.
+
+---
+
+## 🧱 Task 1 — WT Revision (Exam-Oriented)  
+⏰ **Time:** 35–40 min  
+
+📘 **Goal:** Strengthen scoring topics for the Web Technology exam.
+
+### 🔹 Revise These Topics  
+#### **CSS Positioning**  
+- static  
+- relative  
+- absolute  
+- fixed  
+- sticky  
+
+#### **CSS Display Types**  
+- block  
+- inline  
+- inline-block  
+
+#### **CSS Selectors**  
+- attribute selectors  
+- pseudo-classes  
+
+#### **JavaScript DOM**  
+- `getElementById`  
+- `querySelector`  
+- Event handling  
+
+#### **Networking Quick Notes**  
+- URL  
+- TCP/IP  
+- Socket  
+- Datagram  
+- InetAddress  
+
+📖 **Resources:**  
+- https://www.w3schools.com/css/  
+- https://www.javatpoint.com/computer-network-tutorial  
+
+📝 **Write 2–3 lines per topic** in your notebook.
+
+---
+
+## 🧮 Task 2 — DSA: Segment Tree Revision + Main Problem  
+⏰ **Time:** 40–45 min  
+
+📘 **Goal:** Refresh segment tree concepts before solving a major problem.
+
+### 🔹 What to Revise  
+- Building a segment tree  
+- Query (range sum)  
+- Update (point update)  
+- Why segment trees are good for dynamic range updates  
+
+📖 **Resource:**  
+👉 https://www.geeksforgeeks.org/segment-tree-data-structure/
+
+---
+
+### 🔹 DSA Problem for Today (Your Requested Question)  
+💡 **315. Count of Smaller Numbers After Self**  
+🔗 https://leetcode.com/problems/count-of-smaller-numbers-after-self/  
+
+📌 **Concepts Useful:**  
+- Fenwick Tree (BIT)  
+- Segment Tree  
+- Merge Sort counting  
+
+Try **Segment Tree approach first**, since that matches today’s learning.
+
+---
+
+## 💜 Task 3 — Backend  
+No backend task today (as requested).  
+Backend continues tomorrow.
+
+---
+
+## 🌙 Mini Habit Task (2 min)  
+Say aloud:
+
+> **“I am consistent, disciplined, and improving every day.”**
+
+---
+
+✨ **Orbit Note:**  
+You handled WT + Segment Trees beautifully today — this is smart exam-week pacing 💜🚀  
