@@ -1,0 +1,62 @@
+# 📅 Day 38 — DSA Only (Priority Queue / Heap Revision)  
+
+⏰ **Total Time:** ~30–40 min  
+
+📘 **Main Goal:**  
+Revise **Heap / Priority Queue** and solve one classic interview problem.
+
+---
+
+## 🧮 Task 1 — DSA: Heap / Priority Queue Revision  
+⏰ **Time:** 10–15 min  
+
+📘 **What to Revise:**  
+- What is a Heap?  
+- Min Heap vs Max Heap  
+- Priority Queue in Java  
+- Time Complexity:  
+  - Insert → **O(log n)**  
+  - Remove → **O(log n)**  
+  - Peek → **O(1)**  
+
+📖 **Resources (Quick & Clear):**  
+- 👉 Heap Data Structure – GFG  
+  https://www.geeksforgeeks.org/heap-data-structure/  
+- 👉 Priority Queue in Java – GFG  
+  https://www.geeksforgeeks.org/priority-queue-in-java/  
+
+---
+
+## 🧮 Task 2 — DSA Problem (Heap Application)  
+⏰ **Time:** 20–25 min  
+
+### ✅ **215. Kth Largest Element in an Array**  
+🔗 https://leetcode.com/problems/kth-largest-element-in-an-array/  
+
+📌 **Approach to Use:**  
+- Min Heap of size **k**  
+- Keep only **k largest elements**  
+- Top of heap = answer  
+
+📖 **Helpful Resource:**  
+- 👉 Kth Largest Element – GFG  
+  https://www.geeksforgeeks.org/kth-largest-element-in-an-array/  
+
+---
+
+## 💜 Orbit Rule for Today  
+- No guilt if you do only this ✔️  
+- Finish DSA → PPT → Pitch confidently  
+- **Consistency > Perfection**
+
+---
+
+## 🎙 English Confidence (1 min)  
+Say aloud:
+
+> **“I manage my time well and still grow every day.”**
+
+---
+
+✨ **Orbit Note:**  
+Light day done right. One solid problem is enough to keep momentum 💜🚀  
