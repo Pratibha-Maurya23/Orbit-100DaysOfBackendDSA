@@ -1,0 +1,102 @@
+# 💻 Day 41 — LeetCode Contest Day + Smart Revision  
+📅 **Date:** Day 41  
+⏰ **Total Time:** ~2–2.5 hrs (flexible around contest)
+
+📘 **Main Goal:**  
+Simulate real interview pressure using contest practice, keep DSA sharp, and lightly revise AWS + communication skills.
+
+---
+
+## 🧮 Task 1 — LeetCode Contest (Primary Task)  
+⏰ **Time:** ~1.5 hrs (contest duration)
+
+📘 **Goal:** Build speed, accuracy, and confidence under time pressure.
+
+🧩 **What to Do:**  
+- Attempt **1 Virtual / Biweekly LeetCode Contest**  
+- Try to solve as many questions as possible  
+- Partial attempts **also count**  
+
+📝 **After Contest — Write Down:**  
+- Which questions felt easy  
+- Where you got stuck  
+  - Logic  
+  - Implementation  
+  - Time management  
+
+📖 **Resource:**  
+👉 LeetCode Contest Page  
+https://leetcode.com/contest/
+
+📝 **Tip:**  
+Focus on **thinking and approach**, not rank.
+
+---
+
+## 🧮 Task 2 — DSA Revision: Segment Tree (Cooldown Session)  
+⏰ **Time:** 25–30 min  
+
+📘 **Goal:** Reinforce a hard topic calmly after contest stress.
+
+🧩 **What to Revise:**  
+- Segment Tree  
+  - Build  
+  - Query  
+  - Update  
+- Recall usage comparison:  
+  - Segment Tree vs Heap vs Prefix Sum  
+
+📖 **Resource:**  
+👉 Segment Tree Revision – GFG  
+https://www.geeksforgeeks.org/segment-tree-data-structure/
+
+---
+
+## ☁️ Task 3 — AWS Light Revision  
+⏰ **Time:** 20–25 min  
+
+📘 **Goal:** Retain cloud concepts already studied.
+
+🧩 **What to Revise:**  
+- EC2 basics  
+- Key Pair (why needed)  
+- Security Groups  
+  - Inbound rules  
+  - Outbound rules  
+
+📖 **Resource:**  
+👉 EC2 Overview  
+https://docs.aws.amazon.com/ec2/
+
+---
+
+## 🧠 Task 4 — Reasoning / Aptitude (Light)  
+⏰ **Time:** 10–15 min  
+
+📘 **Goal:** Support placement exams (AMCAT-style).
+
+🧩 **What to Do:**  
+Solve **5–8 questions** from:  
+- Number / Alphabet Series  
+- Direction sense  
+- Coding–Decoding  
+
+📖 **Resource:**  
+👉 Logical Reasoning Practice  
+https://www.indiabix.com/logical-reasoning/questions-and-answers/
+
+---
+
+## 🗣 Task 5 — English Speaking Practice  
+⏰ **Time:** 5 min  
+
+📘 **Goal:** Improve interview communication confidence.
+
+🧩 **Say Aloud:**  
+> “In today’s contest, I focused on understanding the problem constraints and choosing the right data structure before coding.”
+
+---
+
+✨ **Orbit Note:**  
+Contest days build **real interview stamina**.  
+Even one solved problem = progress. Stay consistent 💜🚀  
