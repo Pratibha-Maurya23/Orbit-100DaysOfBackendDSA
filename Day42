@@ -1,0 +1,105 @@
+# 📅 Day 42 — Contest + Revision + AWS Basics
+
+⏰ **Total Time:** ~2–2.5 hrs  
+
+📘 **Main Goal:**  
+Contest practice + revise **Heap**, improve **reasoning & English**, and extend **AWS basics** one step forward.
+
+---
+
+## 🧮 Task 1 — LeetCode Contest Practice  
+⏰ **Time:** 45–60 min  
+
+📘 **Goal:** Improve speed, accuracy, and problem understanding.
+
+🧩 **What to Do:**  
+- Attempt **1 LeetCode contest** (virtual / biweekly)  
+- Focus on:  
+  - Understanding problems clearly  
+  - Writing clean logic  
+- ❌ Don’t worry about ranking today  
+
+📖 **Resource:**  
+👉 https://leetcode.com/contest/
+
+---
+
+## 🧮 Task 2 — DSA Revision: Heap / Priority Queue  
+⏰ **Time:** 30–35 min  
+
+📘 **Goal:** Strengthen heap logic (very important for interviews).
+
+🧩 **What to Revise:**  
+- Min Heap vs Max Heap  
+- When to use `PriorityQueue`  
+- Common patterns:  
+  - Kth largest / smallest  
+  - Streaming problems  
+
+📖 **Resource:**  
+👉 Heap / Priority Queue – GFG  
+https://www.geeksforgeeks.org/heap-data-structure/
+
+---
+
+## ☁️ Task 3 — AWS New Basic Topic  
+⏰ **Time:** 20–25 min  
+
+📘 **Goal:** Understand how AWS resources are organized & billed (VERY important conceptually).
+
+### 🔹 Topic: AWS Regions & Availability Zones  
+
+🧩 **What to Learn:**  
+- What is a **Region**?  
+- What is an **Availability Zone (AZ)**?  
+- Why AWS uses **multiple AZs**?  
+- How regions affect:  
+  - latency  
+  - availability  
+  - cost  
+
+📝 **Relate This To:**  
+> “Why my app should not depend on a single server”
+
+📖 **Resources:**  
+- 👉 AWS Regions & AZs (Official):  
+  https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html  
+- 👉 Simple Explanation (GFG-style):  
+  https://www.geeksforgeeks.org/aws-regions-and-availability-zones/
+
+---
+
+## 🧠 Task 4 — Reasoning + Verbal Ability  
+⏰ **Time:** 20 min  
+
+📘 **Goal:** Improve aptitude + confidence for placements.
+
+🧩 **What to Do:**  
+- Solve:  
+  - **5 reasoning questions** (any type)  
+  - **5 verbal questions** (synonyms / sentence correction)  
+
+📖 **Resource:**  
+👉 https://www.indiabix.com/
+
+---
+
+## 💜 Task 5 — Daily Habits & English Practice  
+⏰ **Time:** 10–15 min  
+
+📚 **Book Reading:**  
+- Read **5–7 pages** (any book)
+
+🗣️ **English Speaking (2 min):**  
+Say aloud:  
+> “AWS Regions and Availability Zones help applications remain available even during failures.”
+
+🌙 **Night Rule:**  
+- Phone away  
+- Sleep by **11 PM**
+
+---
+
+✨ **Orbit Note:**  
+Day 42 balances **contest pressure + core revision + cloud fundamentals** perfectly.  
+You’re thinking like an SDE now — steady, structured, and confident 💜🚀  
