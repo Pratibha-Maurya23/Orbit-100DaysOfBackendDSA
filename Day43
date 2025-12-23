@@ -1,0 +1,131 @@
+# 💻 Day 43 — DSA (Greedy + Heap) + AWS IAM + Graph Lecture 2 + HealHub Final Touches  
+📅 **Date:** Day 43  
+⏰ **Total Time:** ~3 hrs (split as per comfort)
+
+📘 **Main Goal:**  
+Advance interview-level DSA, learn the next AWS core pillar (**IAM**), strengthen Graph concepts, and wrap up remaining **HealHub user-side work**.
+
+---
+
+## 🧮 Task 1 — DSA (Primary Priority)  
+⏰ **Time:** 1 hr 15 min  
+
+📘 **Goal:**  
+Strengthen **Greedy + Heap** patterns (very common in big-tech interviews).
+
+---
+
+### 🔹 Problems to Solve
+
+#### 1️⃣ Maximum Subsequence Score  
+🔗 https://leetcode.com/problems/maximum-subsequence-score/
+
+**Concepts Used:**  
+- Greedy strategy  
+- Min Heap  
+- Sorting + Heap combination  
+
+---
+
+#### 2️⃣ Total Cost to Hire K Workers  
+🔗 https://leetcode.com/problems/total-cost-to-hire-k-workers/
+
+**Concepts Used:**  
+- Priority Queue  
+- Two pointers + Heap  
+- Cost optimization  
+
+📖 **Resource:**  
+👉 Heap / Priority Queue – GFG  
+https://www.geeksforgeeks.org/priority-queue-set-1-introduction/
+
+📝 **Interview Tip:**  
+After solving each problem, write **2–3 lines** explaining *why heap was required*.
+
+---
+
+## ☁️ Task 2 — AWS Core: IAM (Very Important)  
+⏰ **Time:** 30–35 min  
+
+📘 **Goal:**  
+Understand **IAM**, the foundation of AWS security.
+
+---
+
+### 🧩 What to Learn
+- What is **IAM**?  
+- IAM **Users vs Roles**  
+- **Policies** (JSON-based permissions)  
+- Why IAM is required before using EC2, S3, etc.
+
+🧠 **Think Like This:**  
+- **User** → Human  
+- **Role** → Service (EC2, Lambda)  
+- **Policy** → Permission rulebook  
+
+📖 **Resources:**  
+- 👉 IAM Basics (AWS Docs)  
+  https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html  
+- 👉 Simple IAM Explanation (GFG)  
+  https://www.geeksforgeeks.org/aws-identity-and-access-management-iam/
+
+---
+
+## 🌐 Task 3 — Graph Learning (Lecture 2)  
+⏰ **Time:** 25–30 min  
+
+📘 **Goal:**  
+Strengthen graph fundamentals.
+
+---
+
+### 🧩 What to Cover
+- Graph representations:  
+  - Adjacency List  
+  - Adjacency Matrix  
+- BFS vs DFS (when to use which)  
+- Real-life examples (maps, networks)
+
+📖 **Resource:**  
+👉 Graph Representation – GFG  
+https://www.geeksforgeeks.org/graph-and-its-representations/
+
+---
+
+## 🧱 Task 4 — Project: HealHub (Final User-Side Work)  
+⏰ **Time:** 30–40 min  
+
+📘 **Goal:**  
+Bring **HealHub** closer to a usable system.
+
+---
+
+### 🧩 What to Do
+- Complete **User Page UI**  
+- Ensure APIs are connected:  
+  - Add Medicine ✅  
+  - Edit Medicine ✅  
+  - Delete Medicine ✅  
+
+🧪 **Test Full Flow:**  
+- User login → view medicines  
+- Pharmacist manages medicines  
+
+📖 **Resources:**  
+- 👉 React Conditional Rendering  
+  https://react.dev/learn/conditional-rendering  
+- 👉 REST API Status Codes  
+  https://www.geeksforgeeks.org/http-status-codes/
+
+---
+
+## 🎙 English Speaking Practice (2 min)  
+Say aloud:
+
+> **“I solved greedy problems using heaps, learned AWS IAM, and completed core user flows in my project.”**
+
+---
+
+✨ **Orbit Note:**  
+Day 43 combines **DSA + AWS Security + Graphs + Project Completion** — this is exactly how strong SDE profiles are built.  
+Stay consistent, you’re doing amazing 🚀💜  
