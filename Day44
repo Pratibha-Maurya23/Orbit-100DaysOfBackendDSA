@@ -1,0 +1,122 @@
+# 💻 Day 44 — Graph Mastery + DP Foundations + AWS Next Step  
+⏰ **Total Time:** ~3 hrs (split across the day)
+
+📘 **Main Goal:**  
+Strengthen **graph fundamentals**, start **DAA Unit-4 (very important for exams)**, and continue **AWS core learning**.
+
+---
+
+## 🧮 Task 1 — DSA (Primary Priority): Graph Problems  
+⏰ **Time:** 1 hr – 1 hr 10 min  
+
+📘 **Goal:**  
+Master **graph coloring / bipartite logic**, which is very common in interviews.
+
+### 🧩 Problems to Solve (LeetCode)
+
+1️⃣ **785. Is Graph Bipartite?**  
+🔗 https://leetcode.com/problems/is-graph-bipartite/
+
+2️⃣ **886. Possible Bipartition**  
+🔗 https://leetcode.com/problems/possible-bipartition/
+
+📘 **Concepts Used:**  
+- Graph coloring (2-coloring)  
+- BFS / DFS  
+- Conflict detection  
+
+📖 **Resource:**  
+👉 Bipartite Graph – GFG  
+https://www.geeksforgeeks.org/bipartite-graph/
+
+---
+
+## 🌐 Task 2 — Graph Lecture 3 (Conceptual Learning)  
+⏰ **Time:** 40–45 min  
+
+📘 **Goal:**  
+Cover core **graph theory topics** needed for DSA + exams.
+
+### 🧩 What to Study
+- Cycle Detection in **Directed Graph**  
+- Topological Sort  
+- Kahn’s Algorithm (BFS-based)  
+- DFS-based Topological Sort  
+- Where topological sort is used:
+  - Course scheduling  
+  - Dependency resolution  
+
+📖 **Resources:**  
+👉 Cycle Detection in Directed Graph  
+https://www.geeksforgeeks.org/detect-cycle-in-a-graph/  
+
+👉 Topological Sort  
+https://www.geeksforgeeks.org/topological-sorting/
+
+---
+
+## ☁️ Task 3 — AWS (Next Core Pillar)  
+⏰ **Time:** 25–30 min  
+
+📘 **Goal:**  
+Move beyond EC2 basics and understand **how permissions actually work in AWS**.
+
+### 🧩 What to Learn
+- What is **IAM**  
+- IAM **Users vs Roles**  
+- Policies:
+  - Managed policies  
+  - Inline policies  
+- Why IAM is **critical for security**
+
+📖 **Resources:**  
+👉 IAM Basics (Official AWS)  
+https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html  
+
+👉 Simple IAM Explanation – GFG  
+https://www.geeksforgeeks.org/aws-identity-and-access-management-iam/
+
+---
+
+## 📘 Task 4 — DAA Unit 4 (Foundation Only Today)  
+⏰ **Time:** 40–45 min  
+
+📘 **Goal:**  
+Build a **strong conceptual base** before solving numericals.
+
+### 🧩 Study These Topics  
+- Why **Dynamic Programming (DP)** is needed  
+- Difference between:
+  - Divide & Conquer  
+  - Greedy  
+  - Recursion  
+  - Dynamic Programming  
+
+### 📖 Focus Examples (Read + Understand Logic)
+- Longest Common Subsequence (LCS)  
+- 0/1 Knapsack (idea only)
+
+📖 **Resource:**  
+👉 Dynamic Programming Introduction – GFG  
+https://www.geeksforgeeks.org/dynamic-programming/
+
+---
+
+## 💜 Task 5 — Daily Discipline + English Practice  
+⏰ **Time:** 10–15 min  
+
+### ✅ Habits
+- No series during study  
+- Read **2 pages** of any book  
+- Sleep by **11:30 PM**
+
+### 🗣️ English Practice (2 min)
+Say aloud:
+
+> **“A bipartite graph can be colored using two colors such that no adjacent nodes share the same color.”**
+
+---
+
+✨ **Orbit Note:**  
+Day 44 connects **interview-level DSA**, **exam-focused DAA**, and **real-world cloud security concepts**.  
+This balance is exactly what strong SDE preparation looks like 🚀💜  
