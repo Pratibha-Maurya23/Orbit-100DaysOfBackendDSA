@@ -1,0 +1,104 @@
+# 💻 Day 45 — LeetCode Contest + DBMS Unit 4 Revision + English Practice  
+⏰ **Total Time:** ~2–2.5 hrs  
+
+📘 **Main Goal:**  
+Maintain DSA momentum through contest practice, revise **DBMS Unit-4** for exams, and keep **English confidence** active.
+
+---
+
+## 🧮 Task 1 — DSA: LeetCode Contest Practice (Primary Task)  
+⏰ **Time:** 1 – 1.25 hrs  
+
+📘 **Goal:**  
+Improve problem-solving speed, reading accuracy, and contest temperament.
+
+🧩 **What to Do:**  
+- Attempt **LeetCode Contest** (live or virtual)  
+- Focus on:  
+  - Understanding problem statements  
+  - Identifying patterns (heap, graph, DP, greedy)  
+
+📝 **After Contest:**  
+- Review solutions of **unsolved problems**  
+- Note **1 mistake** you made:  
+  - logic  
+  - time management  
+  - implementation  
+
+📖 **Resource:**  
+👉 LeetCode Contest Archive  
+https://leetcode.com/contest/
+
+📝 **Output:**  
+- Write **contest score**  
+- Write **problems attempted** (notebook / repo)
+
+---
+
+## 🗄️ Task 2 — DBMS Unit 4 Revision (Transactions & Recovery)  
+⏰ **Time:** 50–60 min  
+
+📘 **Goal:**  
+Consolidate **high-scoring Unit-4 topics** (exam-oriented revision).
+
+### ✅ Topics to Revise (Only revision today):  
+- Transaction System  
+- ACID Properties  
+- Operations During a Transaction  
+- Transaction State Diagram  
+- Schedule & Types of Schedules  
+- Serializability  
+- Conflict vs View Serializability  
+
+🧩 **What to Do:**  
+- Write **2–3 lines** explanation for each topic  
+- Draw **one clean transaction state diagram**  
+- Practice **1 serializability example** (conflict based)  
+
+📖 **Resources:**  
+👉 DBMS Transactions – GFG  
+https://www.geeksforgeeks.org/dbms-transactions/  
+
+👉 Serializability Explained – GFG  
+https://www.geeksforgeeks.org/serializability-in-dbms/  
+
+📝 **Note:**  
+You’ve completed **half of Unit-4**.  
+Tomorrow we’ll cover:  
+- Recovery System  
+- Deadlock  
+- Distributed DB (light)
+
+---
+
+## 🎙 Task 3 — English Practice (Light but Daily)  
+⏰ **Time:** 10–15 min  
+
+📘 **Goal:**  
+Improve clarity for **interviews & viva**.
+
+🗣️ **What to Speak (2 min):**  
+> *“What is a transaction and why are ACID properties important in databases?”*
+
+🎯 **Focus On:**  
+- Clear structure  
+- Simple sentences  
+- Confidence (not speed)
+
+📖 **Optional Help:**  
+👉 How to Explain Technical Topics Simply  
+https://www.youtube.com/watch?v=8S0FDjFBj8o  
+
+---
+
+## 💜 Habit Reminder (Quick Check)  
+- ❌ No series during study  
+- 📚 Read **5–7 pages** (any book)  
+- 🌙 Sleep by **11 PM**
+
+---
+
+✨ **Orbit Note:**  
+Day 45 balances **contest pressure + exam revision + communication** —  
+exactly how strong engineers prepare.  
+You’re building the right habits 💜🚀  
