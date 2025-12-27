@@ -1,0 +1,116 @@
+# 💻 Day 46 — DBMS Unit-4 Wrap-up + LeetCode Virtual Contest + Reasoning & English  
+
+⏰ **Total Time:** ~2–2.5 hrs  
+
+📘 **Main Goal:**  
+Finish **DBMS Unit-4**, stay consistent with **LeetCode contests**, and keep **reasoning + English** sharp.
+
+---
+
+## 🧮 Task 1 — LeetCode Virtual Contest #479  
+⏰ **Time:** 1 hr – 1 hr 15 min  
+
+📘 **Goal:**  
+Improve speed, accuracy, and contest confidence.
+
+🧩 **What to Do:**  
+- Attempt **LeetCode Weekly Contest 479 (Virtual)**  
+- Focus on:  
+  - Understanding problem statements clearly  
+  - Solving at least **1–2 questions fully**  
+
+📝 **After Contest:**  
+Write down:  
+- What went wrong  
+- Which concept blocked you  
+
+📖 **Resource:**  
+- 👉 LeetCode Contest Page  
+  https://leetcode.com/contest/  
+
+📝 **Tip:**  
+Contest performance > number of questions solved.
+
+---
+
+## 🗄️ Task 2 — DBMS Unit-4 (Remaining Topics Revision)  
+⏰ **Time:** 45–50 min  
+
+📘 **Goal:**  
+Complete **DBMS Unit-4** fully for exams.
+
+🧩 **Revise These Topics:**  
+- Testing of Serializability  
+- Conflict vs View Serializability  
+- Recoverability  
+- Recoverable, Cascadeless & Strict Schedules  
+- Recovery System  
+- Log-Based Recovery  
+- Deferred vs Immediate Database Modification  
+- Checkpoints  
+- Deadlock:  
+  - Necessary Conditions  
+  - Deadlock Handling  
+- Distributed Database & Components  
+
+📝 **What to Do:**  
+- Write **2–3 exam-ready points** for each topic  
+- No deep derivations — focus on clarity  
+
+📖 **Resource:**  
+- 👉 DBMS Transactions & Recovery – GFG  
+  https://www.geeksforgeeks.org/dbms-transaction-management/
+
+---
+
+## 🧠 Task 3 — Reasoning Practice  
+⏰ **Time:** 15–20 min  
+
+📘 **Goal:**  
+Maintain aptitude sharpness for placements.
+
+🧩 **What to Do:**  
+- Solve:  
+  - 2 questions from **Logical Reasoning**  
+  - 2 questions from **Analytical Reasoning**  
+
+🎯 **Focus On:**  
+- Accuracy  
+- Time taken per question  
+
+📖 **Resource:**  
+- 👉 Reasoning Practice – IndiaBix  
+  https://www.indiabix.com/logical-reasoning/questions-and-answers/
+
+---
+
+## 🗣️ Task 4 — English Practice (Confidence Mode)  
+⏰ **Time:** 10 min  
+
+📘 **Goal:**  
+Improve fluency and clarity for interviews & viva.
+
+🧩 **What to Do:**  
+- Speak for **2 minutes** on:  
+  > *“What I learned today from the LeetCode contest.”*  
+
+- Then read **1 page aloud** from:  
+  - Any tech blog **OR**  
+  - Any English book  
+
+📖 **Resource:**  
+- 👉 English for Interviews (Free)  
+  https://www.youtube.com/@SpeakEnglishWithMrD  
+
+---
+
+## 🌙 Daily Discipline Check  
+- ❌ No series during study  
+- ⏳ Short breaks only  
+- 🌙 Sleep by **11:00 PM**
+
+---
+
+✨ **Orbit Note:**  
+Day 46 balances **contests + DBMS exams + communication** — exactly what strong SDE preparation looks like.  
+Consistency is compounding in your favor 🚀💜  
