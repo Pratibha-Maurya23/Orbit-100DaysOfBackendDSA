@@ -1,0 +1,104 @@
+# 💻 Day 50 — DSA + ML Full Revision (Balanced Day)
+⏰ **Total Time:** Whole-night (exam + concept-focused)
+
+📘 **Main Goal:**  
+Strengthen **greedy interval logic in DSA** and **consolidate ML Unit 1 → Unit 5** for exams and long-term understanding.
+
+---
+
+## 🧮 Task 1 — DSA (Primary Task): Greedy / Interval Scheduling  
+⏰ **Time:** 40–45 min  
+
+📘 **Goal:**  
+Master **interval-based greedy problems**, very common in interviews.
+
+### 🧩 Problem to Solve  
+**435. Non-overlapping Intervals**  
+🔗 https://leetcode.com/problems/non-overlapping-intervals/
+
+### 🧠 Concepts to Focus On  
+- Greedy choice  
+- Sorting by **end time**  
+- Why removing minimum intervals works  
+- Relation to **Activity Selection Problem**
+
+📖 **Resource:**  
+👉 Interval Scheduling / Greedy – GFG  
+https://www.geeksforgeeks.org/interval-scheduling-using-greedy-algorithm/
+
+📝 **Tip:**  
+Write down **why sorting by end time is optimal** — this explanation is frequently asked in interviews.
+
+---
+
+## 🤖 Task 2 — Machine Learning Revision (Unit 1 → Unit 5)  
+⏰ **Time:** 1 hr – 1 hr 10 min  
+
+📘 **Goal:**  
+Revise all ML units **lightly but meaningfully** for exams + conceptual clarity.
+
+---
+
+### 🔹 Unit 1 — Introduction to Machine Learning  
+- What is Machine Learning?  
+- Types: Supervised, Unsupervised, Reinforcement  
+- Applications of ML  
+
+📖 Resource:  
+https://www.geeksforgeeks.org/machine-learning/
+
+---
+
+### 🔹 Unit 2 — Support Vector Machine (SVM)  
+- Hyperplane / decision surface  
+- Linear vs non-linear classification  
+- Kernels:  
+  - Linear  
+  - Polynomial  
+  - Gaussian (RBF)  
+- Properties & issues of SVM  
+
+📖 Resource:  
+https://www.geeksforgeeks.org/support-vector-machine-algorithm/
+
+---
+
+### 🔹 Unit 3 — Decision Tree Learning  
+- Decision tree learning algorithm  
+- Entropy & Information Gain  
+- ID3 Algorithm  
+- Issues: overfitting, bias  
+
+📖 Resource:  
+https://www.geeksforgeeks.org/decision-tree/
+
+---
+
+### 🔹 Unit 4 — Instance-Based Learning  
+- k-Nearest Neighbour (k-NN)  
+- Locally Weighted Regression  
+- Case-based learning  
+- Radial Basis Function (RBF)  
+
+📖 Resource:  
+https://www.geeksforgeeks.org/k-nearest-neighbors/
+
+---
+
+### 🔹 Unit 5 — Quick Comparison & Exam Focus  
+- SVM vs Decision Tree vs k-NN  
+- When to use which algorithm  
+- Advantages & limitations (2–3 points each)
+
+---
+
+## 🎙 English Practice (2 min)  
+Say aloud:
+
+> **“Greedy algorithms help me make optimal decisions step by step, while machine learning helps systems learn patterns from data.”**
+
+---
+
+✨ **Orbit Note:**  
+Day 50 shows how far you’ve come —  
+DSA logic + ML theory + discipline = real engineer mindset 💜🚀  
