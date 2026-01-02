@@ -1,0 +1,76 @@
+# 💻 Day 51 — DSA + ML (Whole-Night Exam Revision Mode)
+
+⏰ **Total Time:** Exam-focused day (flexible hours)
+
+📘 **Main Goal:**  
+- Keep **DSA consistency** alive  
+- Revise the **entire ML syllabus** confidently for the exam  
+
+---
+
+## 🧮 Task 1 — DSA (Primary Task)  
+⏰ **Time:** 30–40 min  
+
+📘 **Goal:**  
+Strengthen **greedy + interval scheduling** patterns (very common in interviews).
+
+### 🧩 Problem to Solve  
+**452. Minimum Number of Arrows to Burst Balloons**  
+🔗 https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+
+### 🧠 Concepts to Focus On  
+- Interval overlap  
+- Sorting by **end time**  
+- Greedy decision making  
+
+📖 **Resource:**  
+👉 Interval Scheduling / Greedy – GFG  
+https://www.geeksforgeeks.org/interval-scheduling-using-greedy-algorithm/
+
+📝 **Quick Note (Important):**  
+Write **2–3 lines** in your notebook:  
+> Why sorting by end time is optimal  
+
+(This helps a lot in interviews.)
+
+---
+
+## 🤖 Task 2 — ML Paper Revision (Whole Night Focus)  
+⏰ **Primary Focus:** Night  
+
+📘 **Goal:**  
+Full revision of **ML Unit 3 → Unit 5** for the exam.
+
+### ✅ Revise in This Order (Recommended)
+
+### 🔹 Unit 3 — Decision Tree  
+- Entropy  
+- Information Gain  
+- ID3 Algorithm  
+- Overfitting  
+- Advantages & disadvantages  
+
+---
+
+### 🔹 Unit 4 — Instance-Based Learning  
+- k-NN algorithm  
+- Distance metrics  
+- Locally Weighted Regression  
+- Case-based learning  
+
+---
+
+### 🔹 Unit 5 — Revision & Comparisons  
+- SVM vs Decision Tree  
+- k-NN pros / cons  
+- Bias–Variance tradeoff  
+
+📖 **Resources (Use Selectively):**  
+- GFG ML Notes  
+  https://www.geeksforgeeks.org/machine-learning/  
+- **Your class notes (MOST IMPORTANT)**  
+
+📝 **Exam Tip:**  
+Prepare:  
+- 2–3 **definition-based answers**  
+- 1 **algorithm explanation** (ID3 / k-N
