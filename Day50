@@ -63,34 +63,6 @@ https://www.geeksforgeeks.org/support-vector-machine-algorithm/
 
 ---
 
-### 🔹 Unit 3 — Decision Tree Learning  
-- Decision tree learning algorithm  
-- Entropy & Information Gain  
-- ID3 Algorithm  
-- Issues: overfitting, bias  
-
-📖 Resource:  
-https://www.geeksforgeeks.org/decision-tree/
-
----
-
-### 🔹 Unit 4 — Instance-Based Learning  
-- k-Nearest Neighbour (k-NN)  
-- Locally Weighted Regression  
-- Case-based learning  
-- Radial Basis Function (RBF)  
-
-📖 Resource:  
-https://www.geeksforgeeks.org/k-nearest-neighbors/
-
----
-
-### 🔹 Unit 5 — Quick Comparison & Exam Focus  
-- SVM vs Decision Tree vs k-NN  
-- When to use which algorithm  
-- Advantages & limitations (2–3 points each)
-
----
 
 ## 🎙 English Practice (2 min)  
 Say aloud:
