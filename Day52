@@ -1,0 +1,128 @@
+# 💻 Day 52 — DSA + DAA Unit 4 (Dynamic Programming Focus)
+
+⏰ **Total Time:** ~2–2.5 hrs (adjust as per exam energy)
+
+📘 **Main Goal:**  
+- Strengthen **bit manipulation + DP thinking** in DSA  
+- Revise **Dynamic Programming (DAA Unit 4)** thoroughly for exams & interviews  
+
+---
+
+## 🧮 Task 1 — DSA (Primary Task): Bit Manipulation  
+⏰ **Time:** 30–40 min  
+
+📘 **Goal:**  
+Understand **bit-level DP patterns**.
+
+### 🧩 Problem to Solve  
+**338. Counting Bits**  
+🔗 https://leetcode.com/problems/counting-bits/
+
+### 🧠 Concepts to Focus On  
+- Binary representation  
+- Relation:  
+- Reuse of previous results (DP + bits)
+
+📖 **Resource:**  
+👉 Bit Manipulation Basics – GFG  
+https://www.geeksforgeeks.org/bitwise-algorithms/
+
+📝 **Quick Note (Important):**  
+Write **2 lines** explaining why this problem is **Dynamic Programming**, not just bit logic.
+
+---
+
+## 📐 Task 2 — DAA Unit 4 Revision (Dynamic Programming – HIGH Priority)  
+⏰ **Time:** 1.5–2 hrs  
+
+📘 **Goal:**  
+Master **DP fundamentals + key algorithms** (exam-critical).
+
+---
+
+### 🔹 1️⃣ Introduction to Dynamic Programming  
+📖 **Revise:**  
+- Difference between:  
+- Divide & Conquer  
+- Greedy  
+- Dynamic Programming  
+- Recursion vs DP  
+- Key ideas:  
+- Optimal substructure  
+- Overlapping subproblems  
+
+📖 **Resource:**  
+https://www.geeksforgeeks.org/dynamic-programming/
+
+---
+
+### 🔹 2️⃣ Longest Common Subsequence (LCS)  
+📖 **Focus On:**  
+- DP table construction  
+- Time & space complexity  
+- Difference between **LCS vs Substring**
+
+📖 **Resource:**  
+https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
+
+---
+
+### 🔹 3️⃣ 0/1 Knapsack Problem  
+📖 **Focus On:**  
+- Choice diagram  
+- DP matrix meaning  
+- Why **greedy fails** in this problem  
+
+📖 **Resource:**  
+https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+
+---
+
+### 🔹 4️⃣ Matrix Chain Multiplication  
+📖 **Focus On:**  
+- Parenthesization  
+- Cost calculation  
+- DP recurrence relation  
+
+📖 **Resource:**  
+https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
+
+---
+
+### 🔹 5️⃣ Floyd–Warshall Algorithm  
+📖 **Focus On:**  
+- All-pairs shortest path  
+- DP formulation  
+- Time complexity  
+
+📖 **Resource:**  
+https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/
+
+---
+
+### 🔹 6️⃣ Travelling Salesman Problem (TSP) using DP  
+📖 **Focus On:**  
+- Bitmasking idea  
+- State representation  
+- Why DP beats brute force  
+
+📖 **Resource:**  
+https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/
+
+---
+
+## 💜 Task 3 — Light Habit + Recall  
+⏰ **Time:** 10–15 min  
+
+📝 **Write:**  
+- One **DP formula** you remember clearly  
+- One **DP problem** that feels difficult  
+
+🎙 **Say Aloud (1 min):**  
+> **“Dynamic Programming works by storing results of smaller subproblems to build optimal solutions efficiently.”**
+
+---
+
+✨ **Orbit Note:**  
+Day 52 is a **core CS foundation day** —  
+DP clarity here will help you in **DAA exams, interviews, and real problem-solving** 💜🚀  
