@@ -1,0 +1,131 @@
+# 💻 Day 53 — DSA Contest + DAA Unit 4 & 5 Revision + Notification Check  
+
+⏰ **Total Time:** Flexible (~2.5–3 hrs depending on contest)
+
+📘 **Main Goal:**  
+- Maintain **contest habit**  
+- Revise **DAA Backtracking + Unit 5 algorithms** for exams  
+- Clear **mental clutter** (emails & LinkedIn)
+
+---
+
+## 🧮 Task 1 — DSA (Primary): Weekly Contest  
+⏰ **Time:** As per contest duration  
+
+📘 **Goal:**  
+Improve problem reading, speed, and confidence.
+
+🧩 **What to Do:**  
+- Attempt **LeetCode Weekly Contest 483**  
+- Focus on:  
+  - Understanding problem statements clearly  
+  - Solving what you can **without panic**
+
+📝 **Post-Contest (5 min):**  
+Write down:  
+- 1 topic that felt easy  
+- 1 topic that needs revision  
+
+📖 **Resource:**  
+👉 https://leetcode.com/contest/
+
+---
+
+## 📐 Task 2 — DAA Revision (Point-Based, Exam-Oriented)  
+⏰ **Time:** 1.5–2 hrs  
+
+📘 **Goal:**  
+Revise **high-weight DAA topics** smartly (no over-detail).
+
+---
+
+### 🔹 Part A — Introduction to Backtracking  
+📖 **Revise These Points:**  
+- Difference between:  
+  - Backtracking vs Branch & Bound  
+- Key idea:  
+  - Try → Check → Backtrack  
+
+**Important Problems:**  
+- N-Queen Problem *(Very Important)*  
+  - State space tree  
+  - Constraints  
+- Sum of Subset *(Very Important)*  
+  - Inclusion–exclusion logic  
+- Hamiltonian Cycle  
+- Graph Coloring  
+
+📖 **Resource:**  
+https://www.geeksforgeeks.org/backtracking-algorithms/
+
+---
+
+### 🔹 Part B — TSP using Branch and Bound *(Numerical – Very Important)*  
+📖 **Revise:**  
+- Difference: **DP vs Branch & Bound**  
+- Cost matrix idea  
+- Bounding function  
+
+📖 **Resource:**  
+https://www.geeksforgeeks.org/travelling-salesman-problem-using-branch-and-bound/
+
+---
+
+### 🔹 Part C — UNIT 5: String Matching Algorithms  
+📖 **Revise (Algorithm + Numerical where applicable):**  
+- Naive String Matching  
+- Rabin–Karp Algorithm  
+- Finite Automata based matching  
+- KMP Algorithm *(Very Important)*  
+  - LPS array concept  
+
+📖 **Resource:**  
+https://www.geeksforgeeks.org/string-searching-algorithms/
+
+---
+
+### 🔹 Part D — Theory Topics (Previous Papers Focus)  
+📖 **Revise Definitions & Differences:**  
+- P vs NP  
+- NP-Hard vs NP-Complete  
+- Approximation Algorithms  
+- Randomized Algorithms  
+
+📖 **Resource:**  
+https://www.geeksforgeeks.org/complexity-classes-p-np-np-complete-np-hard/
+
+📝 **Exam Tip:**  
+Prepare **4–5 line answers** for each theory topic.
+
+---
+
+## 📬 Task 3 — Email & LinkedIn Cleanup  
+⏰ **Time:** 15–20 min  
+
+📘 **Goal:**  
+Reduce distraction and stay professional.
+
+🧩 **What to Do:**  
+- **Email:**  
+  - Check college / exam-related mails  
+  - Check opportunities / events  
+  - Archive junk  
+  - Star important mails  
+
+- **LinkedIn:**  
+  - Check notifications  
+  - Reply if needed  
+  - Save useful posts  
+
+---
+
+## 🎙 English Confidence (2 min)  
+Say aloud:
+
+> **“Backtracking explores all possibilities systematically, while branch and bound optimizes the search by pruning.”**
+
+---
+
+✨ **Orbit Note:**  
+Day 53 smartly balances **contest pressure + DAA exams + mental clarity**.  
+This is how disciplined engineers prepare 💜🚀  
