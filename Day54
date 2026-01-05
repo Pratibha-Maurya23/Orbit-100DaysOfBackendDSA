@@ -1,0 +1,122 @@
+# 💻 Day 54 — DSA + WT Full Syllabus Revision (Exam Night Mode)
+
+⏰ **Total Time:** Flexible (WT-focused day)
+
+📘 **Main Goal:**  
+- Keep **DSA consistency** with bit-manipulation logic  
+- Revise **WT Unit 1 → Unit 5** thoroughly for the exam  
+
+---
+
+## 🧮 Task 1 — DSA (Primary Task): Bit Manipulation  
+⏰ **Time:** 30–40 min  
+
+📘 **Goal:**  
+Strengthen **bitwise reasoning**, commonly used in interviews.
+
+### 🧩 Problem to Solve  
+**1318. Minimum Flips to Make a OR b Equal to c**  
+🔗 https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+
+### 🧠 Concepts to Focus On  
+- Bitwise OR operation  
+- Checking bits using `& 1`  
+- Counting minimum flips  
+- Binary representation  
+
+📖 **Resource:**  
+👉 Bit Manipulation – GFG  
+https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/
+
+📝 **Quick Note (Important):**  
+Write **2 lines** explaining:  
+- When you flip a bit in **a**  
+- When you flip a bit in **b**
+
+---
+
+## 🌐 Task 2 — WT Paper Revision (Unit 1 → Unit 5)  
+⏰ **Time:** Whole Night (Primary Focus)
+
+📘 **Goal:**  
+Confidently revise **all WT units** for the exam.
+
+---
+
+### 🔹 Unit 1 — Web Basics  
+- Internet & WWW  
+- Web architecture  
+- Client–Server model  
+
+📖 **Resource:**  
+https://www.geeksforgeeks.org/web-technology/
+
+---
+
+### 🔹 Unit 2 — HTML & CSS  
+- HTML forms  
+- CSS selectors  
+- CSS positioning  
+- Page layout  
+
+📖 **Resources:**  
+- https://www.w3schools.com/html/  
+- https://www.w3schools.com/css/
+
+---
+
+### 🔹 Unit 3 — JavaScript & AJAX  
+- JavaScript basics  
+- DOM  
+- Forms validation  
+- AJAX introduction  
+
+📖 **Resource:**  
+https://www.geeksforgeeks.org/javascript/
+
+---
+
+### 🔹 Unit 4 — Networking  
+- TCP/IP  
+- URL & URL connection  
+- Client & server sockets  
+- Datagram  
+
+📖 **Resource:**  
+https://www.geeksforgeeks.org/computer-network-tutorials/
+
+---
+
+### 🔹 Unit 5 — WT Theory Focus  
+- Differences:  
+  - HTML vs XML  
+  - TCP vs UDP  
+- Short notes from previous papers  
+
+📝 **Exam Tip:**  
+Prepare:  
+- Definitions  
+- Differences  
+- Diagrams (where possible)
+
+---
+
+## 🧘‍♀️ Task 3 — Survival Habits (Exam Mode)  
+⏰ **Time:** 5–10 min  
+
+✅ Drink water + take short breaks  
+✅ No guilt  
+✅ Sleep when possible  
+
+---
+
+## 🎙 English Confidence (1 min)  
+Say aloud:
+
+> **“Bit manipulation helps solve problems efficiently, while web technologies enable dynamic and interactive applications.”**
+
+---
+
+✨ **Orbit Note:**  
+Day 54 is about **clarity, recall, and calmness**.  
+You’ve prepared — now just execute 💜🌙  
