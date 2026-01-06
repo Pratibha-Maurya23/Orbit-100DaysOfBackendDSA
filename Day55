@@ -1,0 +1,87 @@
+# 💻 Day 55 — DSA + WT Exam Day (Focused & Light)
+
+⏰ **Total Time:** Flexible (WT paper priority)
+
+📘 **Main Goal:**  
+- Keep **DSA streak alive** with recursion/backtracking  
+- Perform **confidently** in the WT paper  
+
+---
+
+## 🧮 Task 1 — DSA (Primary Task): Backtracking / Recursion  
+⏰ **Time:** 30–40 min  
+
+📘 **Goal:**  
+Strengthen **recursive combination generation**, a very common interview pattern.
+
+### 🧩 Problem to Solve  
+**17. Letter Combinations of a Phone Number**  
+🔗 https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+
+### 🧠 Concepts to Focus On  
+- Mapping digits → characters  
+- Recursion tree  
+- Backtracking:  
+  - choose → explore → un-choose  
+
+📖 **Resource:**  
+👉 Backtracking Basics – GFG  
+https://www.geeksforgeeks.org/backtracking-algorithms/
+
+📝 **Quick Note (Important):**  
+Write **3 lines** explaining:  
+- Base case  
+- Recursive call  
+- How backtracking removes the last choice  
+
+---
+
+## 🌐 Task 2 — WT Paper (FIRST PRIORITY)  
+⏰ **Time:** As per exam schedule  
+
+📘 **Goal:**  
+Write **clear, structured answers** in the WT exam.
+
+### 🧩 Before Exam (Quick 15–20 min Skim)  
+
+**CSS:**  
+- Positioning  
+- Display  
+- Navigation bar  
+
+**JavaScript:**  
+- DOM  
+- Functions  
+- Forms  
+
+**Networking:**  
+- TCP/IP  
+- URL  
+- Client vs Server sockets  
+
+📝 **Exam Writing Tips:**  
+- Use headings  
+- Write short definitions first  
+- Draw diagrams wherever possible  
+
+---
+
+## 🧘‍♀️ Task 3 — Habit Protection (Exam Mode)  
+⏰ **Time:** 5–10 min  
+
+✅ Drink water + light stretching  
+✅ No self-pressure  
+✅ Rest after exam  
+
+---
+
+## 🎙 English Confidence (1 min)  
+Say softly:
+
+> **“I understand recursion clearly, and I express my answers calmly in exams.”**
+
+---
+
+✨ **Orbit Note:**  
+Day 55 is about **execution, not effort**.  
+You’ve prepared well — now trust yourself 💜🌙  
