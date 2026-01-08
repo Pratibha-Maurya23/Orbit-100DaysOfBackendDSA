@@ -1,0 +1,83 @@
+# 💻 Day 57 — DSA + DAA Exam Day (Calm & Focused)
+
+⏰ **Total Time:** Flexible (DAA paper priority)
+
+📘 **Main Goal:**  
+- Keep **DSA streak alive** with BFS  
+- Perform confidently in **DAA paper**  
+- Avoid burnout  
+
+---
+
+## 🧮 Task 1 — DSA (Primary Task): BFS / Shortest Path  
+⏰ **Time:** 30–40 min  
+
+📘 **Goal:**  
+Strengthen **grid traversal using BFS** (very common in interviews).
+
+### 🧩 Problem to Solve  
+**1926. Nearest Exit from Entrance in Maze**  
+🔗 https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+
+### 🧠 Concepts to Focus On  
+- BFS for shortest path in an unweighted grid  
+- Queue usage  
+- Direction vectors (up, down, left, right)  
+- Visited marking to avoid cycles  
+
+📖 **Resource:**  
+👉 BFS in Grid – GFG  
+https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
+
+📝 **Quick Note:**  
+Write **2–3 lines** explaining:  
+- Why BFS (not DFS) gives the nearest exit  
+- What counts as a valid exit  
+
+---
+
+## 📐 Task 2 — DAA Paper (FIRST PRIORITY)  
+⏰ **Time:** As per exam schedule  
+
+📘 **Goal:**  
+Write **structured, confident answers**.
+
+### 🧩 Before Exam (Quick 15–20 min skim)
+**Dynamic Programming**
+- LCS  
+- 0/1 Knapsack  
+- Matrix Chain Multiplication  
+
+**Backtracking**
+- N-Queen  
+- Sum of Subsets  
+
+**TSP**
+- DP vs Branch & Bound  
+
+**Unit 5**
+- KMP (LPS array)  
+- P vs NP basics  
+
+### 📝 Exam Writing Tips
+- Start answers with **definition**  
+- Write **steps / algorithm** clearly  
+- Draw **DP tables / recursion trees**  
+- Keep answers **clean & point-wise**  
+
+---
+
+## 🧘‍♀️ Task 3 — Exam-Day Habits  
+⏰ **Time:** 5–10 min  
+
+✅ Water + light stretching  
+✅ No negative self-talk  
+✅ Rest after paper  
+
+---
+
+## 🎙 English Confidence (1 min)  
+Say softly:
+
+> **“I**
+“I solved problems step by step, and I wrote my exam answers with clarity.”
