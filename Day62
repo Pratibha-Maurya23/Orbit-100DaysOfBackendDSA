@@ -1,0 +1,109 @@
+# 💻 Day 62 — Graph Mastery + Contest + OOPs + Habits
+
+⏰ **Total Time:** ~3 hrs (flexible)
+
+📘 **Main Goal:**  
+- Master **Topological Sort**  
+- Strengthen **graph concepts**  
+- Maintain **contest discipline**  
+- Revise **Java OOPs**  
+- Protect **daily habits**
+
+---
+
+## 🧮 Task 1 — DSA (Primary Task): Topological Sort  
+⏰ **Time:** 45–50 min  
+
+📘 **Goal:**  
+Learn **Topological Sort** using BFS & DFS.
+
+### 🧩 Concepts to Learn
+- Kahn’s Algorithm (BFS)  
+- DFS-based topological sort  
+- DAG (Directed Acyclic Graph)  
+
+📖 **Resource:**  
+👉 Topological Sort – GFG  
+https://www.geeksforgeeks.org/topological-sorting/
+
+### 🧩 LeetCode Practice
+**210. Course Schedule II**  
+🔗 https://leetcode.com/problems/course-schedule-ii/
+
+📌 Focus on:
+- Indegree array  
+- Queue processing  
+- Detecting cycles  
+
+---
+
+## 🔁 Task 2 — Graph Revision  
+⏰ **Time:** 25–30 min  
+
+📘 **Revise:**
+- BFS  
+- DFS  
+- Cycle Detection  
+- Bipartite Graph  
+
+📖 **Resource:**  
+👉 Graph Basics – GFG  
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+
+📝 **Write:**
+- BFS vs DFS (2 differences)  
+- What is a cycle?  
+
+---
+
+## 🏆 Task 3 — Contest  
+⏰ **Time:** As per schedule  
+
+🎯 Attempt:  
+**Biweekly Contest 174**
+
+📝 **After Contest:**
+- How many problems solved  
+- One improvement for next time  
+
+---
+
+## ☕ Task 4 — Java OOPs Revision  
+⏰ **Time:** 20–25 min  
+
+📘 **Revise:**
+- Class & Object  
+- Inheritance  
+- Polymorphism  
+- Encapsulation  
+- Abstraction  
+
+📖 **Resource:**  
+👉 Java OOPs – GFG  
+https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/
+
+---
+
+## 💜 Task 5 — Orbit Habit System  
+⏰ **Time:** 10 min  
+
+### 🌅 Morning
+- No phone for 30 min  
+- Water + deep breathing  
+
+### 📖 Reading
+- 5–10 min  
+
+### 🌙 Night
+Write:
+- What I did today  
+- Tomorrow’s plan  
+
+---
+
+## 🎙 English Practice (1 min)  
+Say aloud:
+
+> **“Topological sorting helps schedule tasks with dependencies.”**
+---
+
