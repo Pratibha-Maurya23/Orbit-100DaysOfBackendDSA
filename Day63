@@ -1,0 +1,126 @@
+# 💻 Day 63 — Sliding Window + Java Lexical Elements + Middleware + Contest
+
+⏰ **Total Time:** ~4 hrs (Weekday Plan)
+
+📘 **Main Goal:**  
+- Master **Sliding Window pattern** (3 medium problems)  
+- Study **Lexical Elements in Java (Chapter 3)**  
+- Complete **Cohort Middleware Lecture**  
+- Maintain **contest discipline (CodeChef)**  
+
+---
+
+## 🧮 Task 1 — DSA (Primary Focus): Sliding Window  
+⏰ **Time:** 1 hr 30 min  
+
+📘 **Goal:**  
+Strengthen **variable-size sliding window** for interviews.
+
+### 🧩 Problems to Solve
+
+1️⃣ **Longest Substring Without Repeating Characters**  
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+2️⃣ **Max Consecutive Ones III**  
+https://leetcode.com/problems/max-consecutive-ones-iii/
+
+3️⃣ **Longest Repeating Character Replacement**  
+https://leetcode.com/problems/longest-repeating-character-replacement/
+
+📌 **Focus On:**
+- When to expand window  
+- When to shrink window  
+- Maintaining frequency / count  
+- Why time complexity becomes **O(n)**  
+
+📝 **After Solving, Write:**
+- Fixed vs Variable sliding window  
+- General sliding window template  
+- Common mistakes  
+
+---
+
+## 🏆 Task 2 — CodeChef Contest  
+⏰ **Time:** As per contest duration  
+
+🎯 Attempt today’s contest.
+
+📝 **After Contest Write:**
+- Problems solved  
+- Rating impact (if any)  
+- One mistake you won’t repeat  
+
+> Consistency > Rating.
+
+---
+
+## 📘 Task 3 — Java (Chapter 3: Lexical Elements)  
+⏰ **Time:** 40–45 min  
+
+📘 **Study Deeply:**
+- Tokens  
+- Keywords  
+- Identifiers  
+- Literals  
+- Operators  
+- Separators  
+
+📌 **Understand:**
+- How Java code is broken into tokens  
+- Rules for valid identifiers  
+- Difference between keywords & identifiers  
+
+📝 **Write in Notebook:**
+- What are lexical elements?  
+- Can keywords be used as identifiers? Why?  
+- Examples of different literals  
+
+---
+
+## 🚀 Task 4 — Cohort Lecture: Middleware (Backend)  
+⏰ **Time:** 45–50 min  
+
+📘 **Goal:**  
+Complete Middleware topic from Harkirat Cohort.
+
+📌 **Focus On:**
+- What is middleware?  
+- Request → Response lifecycle  
+- `next()` function  
+- Global middleware  
+- Route-level middleware  
+- Error-handling middleware  
+
+📝 **After Lecture:**
+- Draw middleware flow diagram  
+- Build 1 small Express example:  
+  - Logging middleware  
+  - Auth check middleware  
+
+---
+
+## 💜 Task 5 — Orbit Habit System  
+⏰ **Time:** 10 min  
+
+### 🌅 Morning
+- No phone first 30 min  
+- Water + breathing  
+
+### 🌙 Night Reflection
+Write:
+- Did I finish all 3 DSA problems?  
+- What confused me today?  
+- Tomorrow’s top priority  
+
+---
+
+## 🎙 English Practice  
+Say aloud:
+
+> “Today I practiced sliding window problems and learned how middleware works in Express. I also studied lexical elements in Java.”
+
+---
+
+✨ **Orbit Note:**  
+Day 63 is a strong backend + DSA growth day.  
+Sliding Window + Middleware = interview-ready thinking 🚀💜  
