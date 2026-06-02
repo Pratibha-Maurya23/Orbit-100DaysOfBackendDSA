@@ -1,0 +1,138 @@
+# 💻 Day 65 — Arrays Mastery + Python Data Types + Consistency
+
+⏰ Total Time: ~4 hrs (Weekday Plan)
+
+## 📘 Main Goal
+
+* Strengthen core Array Interview Problems
+* Learn Python Data Types deeply
+* Maintain challenge consistency
+* Build problem-solving confidence
+
+## 🧮 Task 1 — DSA (Primary Focus): Striver SDE Sheet
+
+⏰ Time: 2 hrs
+
+### 📘 Goal
+
+Master array-based interview questions and understand optimal approaches.
+
+### 🧩 Problem 1
+
+#### 53. Maximum Subarray
+
+🔗 https://leetcode.com/problems/maximum-subarray/
+
+📌 Focus:
+
+* Kadane's Algorithm
+* Running Sum
+* Why O(n) works
+
+📝 Write:
+
+* Intuition behind Kadane's Algorithm
+* Time Complexity
+
+### 🧩 Problem 2
+
+#### 75. Sort Colors
+
+🔗 https://leetcode.com/problems/sort-colors/
+
+📌 Focus:
+
+* Dutch National Flag Algorithm
+* Three Pointers
+* In-place sorting
+
+📝 Write:
+
+* Role of low, mid, high pointers
+* Why this is better than sorting
+
+### 🧩 Problem 3
+
+#### 121. Best Time to Buy and Sell Stock
+
+🔗 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+📌 Focus:
+
+* Tracking minimum price
+* Maximizing profit
+* Single pass solution
+
+📝 Write:
+
+* How greedy approach works
+* Time & Space Complexity
+
+### 📊 After Solving
+
+Write:
+
+* Most difficult problem today
+* One new pattern learned
+* Confidence level (1–10)
+
+## 🐍 Task 2 — Python Deep Learning Journey
+
+⏰ Time: 1 hr
+
+### 📘 Course
+
+Full Stack Generative and Agentic AI with Python
+
+### Today's Topic
+
+#### Data Types in Python
+
+📌 Study:
+
+* int
+* float
+* str
+* bool
+* list
+* tuple
+* set
+* dictionary
+
+📝 Notes
+
+Write:
+
+* Difference between List and Tuple
+* Difference between Set and Dictionary
+* Mutable vs Immutable Data Types
+* One example of each data type
+
+### 💻 Practice
+
+Create a small Python file demonstrating:
+
+* All basic data types
+* Type checking using type()
+* Simple operations on each type
+
+## 💜 Task 3 — Orbit Habit System
+
+⏰ Time: 10 min
+
+### 🌅 Morning
+
+* No phone for first 30 min
+* Drink water
+* Review today's goals
+
+### 📖 Learning Habit
+
+* Focus on understanding, not rushing
+* Make handwritten notes
+
+### 🎙 English Practice
+
+Say aloud:
+
+> "Today I learned important array patterns and studied Python data types. Consistency is helping me become a better software engineer."
