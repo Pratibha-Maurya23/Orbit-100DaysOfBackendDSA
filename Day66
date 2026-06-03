@@ -1,0 +1,93 @@
+# 💻 Day 66 — Array Manipulation & Interval Problems + Consistency
+
+⏰ Total Time: ~2–3 hrs
+
+## 📘 Main Goal
+
+* Master matrix manipulation and interval-based problems
+* Strengthen problem-solving patterns
+* Maintain challenge consistency and habits
+
+---
+
+## 🧮 Task 1 — DSA (Primary Focus): Striver SDE Sheet
+
+⏰ Time: 2 hrs
+
+### 🧩 Problem 1
+
+**48. Rotate Image**
+🔗 https://leetcode.com/problems/rotate-image/
+
+### 🧩 Problem 2
+
+**56. Merge Intervals**
+🔗 https://leetcode.com/problems/merge-intervals/
+
+### 🧩 Problem 3
+
+**88. Merge Sorted Array**
+🔗 https://leetcode.com/problems/merge-sorted-array/
+
+---
+
+## 📝 Approach
+
+### Rotate Image
+
+* First transpose the matrix.
+* Reverse each row.
+* This rotates the matrix 90° clockwise in-place.
+
+### Merge Intervals
+
+* Sort intervals by starting value.
+* Compare the current interval with the last merged interval.
+* Merge overlapping intervals and store the result.
+
+### Merge Sorted Array
+
+* Use two pointers from the end of both arrays.
+* Place the larger element at the end position.
+* Continue until all elements are merged.
+
+---
+
+## ⚡ Complexity
+
+### Rotate Image
+
+* Time Complexity: O(n²)
+* Space Complexity: O(1)
+
+### Merge Intervals
+
+* Time Complexity: O(n log n)
+* Space Complexity: O(n)
+
+### Merge Sorted Array
+
+* Time Complexity: O(m + n)
+* Space Complexity: O(1)
+
+---
+
+## 💜 Task 2 — Orbit Habit System
+
+⏰ Time: 10 min
+
+### 🌅 Morning
+
+* No phone for first 30 minutes
+* Drink water
+* Review today's goals
+
+### 📖 Learning Habit
+
+* Focus on understanding patterns, not memorizing solutions
+
+### 🎙 English Practice
+
+Say aloud:
+
+> "Today I practiced matrix manipulation, interval merging, and two-pointer techniques. Consistent practice is improving my problem-solving skills."
