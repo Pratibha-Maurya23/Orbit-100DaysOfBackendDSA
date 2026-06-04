@@ -1,0 +1,119 @@
+# 💻 Day 67 — Duplicate Number + Computer Networks Revision
+
+⏰ Total Time: ~3–4 hrs (Weekday Plan)
+
+## 📘 Main Goal
+
+* Solve and understand an important array interview problem
+* Revise Transport Layer and Application Layer
+* Strengthen Computer Networks fundamentals for interviews and exams
+* Maintain consistency and habits
+
+---
+
+## 🧮 Task 1 — DSA (Primary Focus)
+
+⏰ Time: 1 hr
+
+### 🧩 Problem
+
+**287. Find the Duplicate Number**
+🔗 https://leetcode.com/problems/find-the-duplicate-number/
+
+### 📌 Focus
+
+* Understand the problem constraints carefully
+* Compare different approaches:
+
+  * Brute Force
+  * Frequency Array
+  * Sorting
+  * Floyd's Cycle Detection (Optimal)
+
+### 📝 Write
+
+* Why the duplicate can be viewed as a cycle
+* Difference between Frequency Array and Floyd's Algorithm
+* Time & Space Complexity of each approach
+
+### ⚡ Expected Complexity (Optimal)
+
+* Time Complexity: O(n)
+* Space Complexity: O(1)
+
+---
+
+## 🌐 Task 2 — Computer Networks Revision
+
+⏰ Time: 1 hr 45 min
+
+### 📘 Unit 4: Transport Layer
+
+#### Revise
+
+* Functions of Transport Layer
+* TCP
+* UDP
+* TCP Three-Way Handshake
+* TCP Four-Way Termination
+* Flow Control
+* Error Control
+* Congestion Control
+* Port Numbers
+* Multiplexing & Demultiplexing
+
+### 📝 Write
+
+* TCP vs UDP (at least 5 differences)
+* Steps of TCP Three-Way Handshake
+* Why UDP is faster than TCP
+
+---
+
+## 🌍 Task 3 — Computer Networks Revision
+
+⏰ Time: 45 min
+
+### 📘 Unit 5: Application Layer
+
+#### Revise
+
+* DNS (Domain Name System)
+* HTTP & HTTPS
+* FTP
+* SMTP
+* POP3
+* IMAP
+* Telnet
+* DHCP
+
+### 📝 Write
+
+* HTTP vs HTTPS
+* Working of DNS
+* Purpose of SMTP, POP3, and IMAP
+
+---
+
+## 💜 Task 4 — Orbit Habit System
+
+⏰ Time: 10 min
+
+### 🌅 Morning
+
+* No phone for first 30 minutes
+* Drink water
+* Review today's targets
+
+### 📖 Learning Habit
+
+* Revise notes after every study session
+* Focus on understanding concepts instead of memorization
+
+### 🎙 English Practice
+
+Say aloud:
+
+> "Today I studied the transport layer and application layer of computer networks. I also solved an important interview problem on finding duplicate numbers."
+
+---
