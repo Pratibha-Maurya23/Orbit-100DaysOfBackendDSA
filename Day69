@@ -1,0 +1,72 @@
+💻 Day 69 — Arrays, DP & Divide-and-Conquer
+
+⏰ Total Time: ~2 hrs
+
+📘 Main Goal:
+
+Understand advanced array patterns
+Strengthen Dynamic Programming fundamentals
+Master Merge Sort-based counting techniques
+🧮 Task 1 — DSA
+
+🧩 229. Majority Element II
+Focus:
+Extended Boyer-Moore Voting Algorithm
+Two Candidate Approach
+Frequency Verification
+
+🧩 62. Unique Paths
+Focus:
+Recursion + Memoization
+Overlapping Subproblems
+Dynamic Programming States
+
+🧩 493. Reverse Pairs
+Focus:
+Modified Merge Sort
+Counting Before Merging
+Divide-and-Conquer Strategy
+
+📚 What I Learned
+How the extended Boyer-Moore Voting Algorithm finds elements appearing more than ⌊n/3⌋ times.
+Using Dynamic Programming with Memoization to avoid recalculating overlapping subproblems.
+How Merge Sort can be modified to efficiently count reverse pairs while sorting.
+
+💡 Approach
+
+Majority Element II
+Use Boyer-Moore Voting Algorithm with two candidates.
+Verify frequencies in a second pass.
+
+Unique Paths
+Apply recursion with memoization.
+Store previously computed states to avoid repeated calculations.
+
+Reverse Pairs
+Combine Merge Sort with a counting step.
+Count valid reverse pairs before merging sorted halves.
+
+⚡ Complexity
+
+Majority Element II
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+Unique Paths
+Time Complexity: O(m × n)
+Space Complexity: O(m × n)
+
+Reverse Pairs
+Time Complexity: O(n log n)
+Space Complexity: O(n)
+
+💜 Orbit Habit System
+🌅 Morning
+No phone for 30 min
+Drink water
+📖 Learning Habit
+Revise today's patterns
+Note key takeaways
+🎙 English Practice
+
+"Today I learned advanced voting algorithms, dynamic programming, and merge sort based counting techniques."
