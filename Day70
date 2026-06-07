@@ -1,0 +1,106 @@
+💻 Day 70 — Hashing, Arrays & Contest Problems
+
+⏰ Total Time: ~3 hrs
+
+📘 Main Goal:
+Strengthen hashing and array techniques
+Learn contest problem-solving patterns
+Revise optimized approaches
+
+🧮 Task 1 — DSA
+
+🧩 Two Sum
+
+Focus:
+HashMap
+Complement Search
+One-pass solution
+
+Approach:
+Store visited elements in a HashMap.
+Check if the required complement already exists.
+Return indices when found.
+
+Complexity:
+Time: O(n)
+Space: O(n)
+
+🧩 4 Sum
+
+Focus:
+Pair Sums
+Hashing
+Complement Matching
+
+Approach:
+Store pair sums in a HashMap.
+Find complementary sums from remaining pairs.
+Count valid combinations efficiently.
+
+Complexity:
+Time: O(n²)
+Space: O(n²)
+
+🧩 Longest Consecutive Sequence
+
+Focus:
+HashSet
+Sequence Detection
+O(n) Solution
+
+Approach:
+Store all numbers in a HashSet.
+Start only from numbers without a predecessor.
+Expand sequence forward and track maximum length.
+
+Complexity:
+Time: O(n)
+Space: O(n)
+
+🏆 Task 2 — LeetCode Contest Revision
+
+🧩 Sum of Compatible Numbers in Range I
+
+Focus:
+Bit Manipulation
+AND Operation
+
+Approach:
+Iterate through the valid range.
+Check compatibility using bitwise AND.
+Add numbers satisfying the condition.
+
+🧩 Valid Binary Strings With Cost Limit
+
+Focus:
+Backtracking
+Constraint Handling
+
+Approach:
+Generate strings recursively.
+Track current cost.
+Prune paths exceeding the cost limit.
+Prevent consecutive invalid placements.
+
+🧩 Maximum Sum of M Non-Overlapping Subarrays I
+
+Focus:
+Dynamic Programming
+Prefix Sum
+Range Optimization
+
+Approach:
+Use Prefix Sum for fast range calculations.
+DP tracks maximum sum using selected subarrays.
+Try all valid lengths and update the best answer.
+
+💜 Orbit Habit System
+🌅 Morning
+No phone for 30 min
+Drink water
+📖 Learning Habit
+Write one key takeaway from each problem
+Focus on patterns, not memorization
+
+🎙 English Practice
+"Today I practiced hashing, bit manipulation, backtracking, and dynamic programming through contest problems."
