@@ -1,0 +1,57 @@
+💻 Day 71 — Hashing & Sliding Window + JS Revision
+
+⏰ Total Time: ~3 hrs
+
+📘 Main Goal:
+Master Prefix Sum, XOR, and Sliding Window
+Revise JavaScript Promises & Async Continue Harkirat Cohort
+
+🧮 Task 1 — DSA
+🧩 Largest Subarray with K Sum
+
+Focus:
+Prefix Sum
+HashMap
+Longest Length
+
+Complexity: O(n) Time | O(n) Space
+
+🧩 Count Subarrays with Given XOR K
+
+Focus:
+Prefix XOR
+HashMap
+Frequency Count
+
+Complexity: O(n) Time | O(n) Space
+
+🧩 Longest Substring Without Repeating Characters
+
+Focus:
+Sliding Window
+Two Pointers
+HashSet / HashMap
+
+Complexity: O(n) Time | O(n) Space
+
+🚀 Task 2 — Harkirat Cohort (Promise & Async Revision)
+
+Focus:
+Promise States
+.then(), .catch()
+Async/Await
+Try-Catch
+
+Check Notifications
+Continue latest pending lecture
+
+💜 Orbit Habit System
+🌅 Morning
+No phone for 30 min
+Drink water
+📖 Learning Habit
+Revise notes
+Write 1 key takeaway
+
+🎙 English Practice
+"Today I practiced hashing, sliding window, and revised JavaScript promises and async concepts."
