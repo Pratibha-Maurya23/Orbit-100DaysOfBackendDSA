@@ -1,0 +1,68 @@
+💻 Day 72 — Linked List Revision + Backend Concepts
+
+⏰ Total Time: ~3–4 hrs
+
+📘 Main Goal:
+Strengthen Linked List fundamentals
+Learn key Backend & AI concepts
+Continue consistency
+
+🧮 Task 1 — DSA (Linked List)
+
+🧩 Revision
+
+Focus:
+Linked List Basics
+Traversal
+Fast & Slow Pointers
+
+🧩 206. Reverse Linked List
+
+Focus:
+Pointer Manipulation
+Iterative Approach
+Complexity: O(n) Time | O(1) Space
+
+🧩 876. Middle of the Linked List
+
+Focus:
+Fast & Slow Pointer
+Complexity: O(n) Time | O(1) Space
+
+🧩 21. Merge Two Sorted Lists
+
+Focus:
+Two Pointers
+Sorted Merge
+Complexity: O(n + m) Time | O(1) Space
+
+🚀 Task 2 — Learn New Concepts
+
+RAG (Retrieval-Augmented Generation)
+Focus:
+What is RAG?
+Why LLMs use RAG
+Retrieval + Generation Flow
+
+WebSocket
+Focus:
+Real-time Communication
+WebSocket vs HTTP
+Use Cases
+
+CI/CD
+Focus:
+Continuous Integration
+Continuous Deployment
+Benefits in Development
+
+💜 Orbit Habit System
+🌅 Morning
+No phone for 30 min
+Drink water
+📖 Learning Habit
+Make short notes
+Write 1 key takeaway per topic
+
+🎙 English Practice
+"Today I revised linked lists and learned about RAG, WebSockets, and CI/CD."
