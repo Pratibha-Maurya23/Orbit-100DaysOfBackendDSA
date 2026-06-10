@@ -1,0 +1,77 @@
+💻 Day 73 — Linked List + Python Fundamentals + OOPs Revision
+
+⏰ Total Time: ~4 hrs
+
+📘 Main Goal:
+
+Strengthen Linked List interview problems
+Continue Agentic AI journey
+Learn Python Conditionals & Loops
+Revise OOPs concepts
+
+🧮 Task 1 — DSA (Linked List)
+
+🧩 19. Remove Nth Node From End of List
+
+Focus:
+calculate postions from start then solve
+One Pass Solution
+
+Complexity: O(n) Time | O(1) Space
+
+🧩 2. Add Two Numbers
+
+Focus:
+Linked List Traversal
+Carry Handling
+
+Complexity: O(n) Time | O(1) Space
+
+🧩 237. Delete Node in a Linked List
+
+Focus:
+In-place Deletion
+Node Value Replacement
+
+Complexity: O(1) Time | O(1) Space
+
+🚀 Task 2 — Agentic AI Course (continue)
+
+Topics : Conditionals
+
+Focus:
+if
+if-else
+if-elif-else
+Nested Conditions
+
+Topics : Loops
+
+Focus:
+for loop
+while loop
+break
+continue
+range()
+
+📘 Task 4 — OOPs Revision
+
+Revise
+Class & Object
+Constructor
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction
+
+💜 Orbit Habit System
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Make short notes
+Write 1 key takeaway per topic
+
+🎙 English Practice
+"Today I solved linked list problems, practiced Python conditionals and loops, and revised OOPs concepts."
