@@ -1,0 +1,47 @@
+💻 Day 74 — Advanced Linked List Patterns
+
+⏰ Total Time: ~2–3 hrs
+
+📘 Main Goal:
+Master important Linked List interview patterns
+Strengthen pointer manipulation skills
+
+🧮 Task 1 — DSA (Linked List)
+
+🧩 160. Intersection of Two Linked Lists
+
+Focus:
+Two Pointer Technique
+Length Difference Handling
+
+Complexity: O(n + m) Time | O(1) Space
+
+🧩 141. Linked List Cycle
+
+Focus:
+Floyd's Cycle Detection
+Fast & Slow Pointers
+
+Complexity: O(n) Time | O(1) Space
+
+🧩 25. Reverse Nodes in k-Group
+
+Focus:
+Linked List Reversal
+Pointer Manipulation
+Group-wise Processing
+
+Complexity: O(n) Time | O(1) Space
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Focus on drawing pointer movements
+Note key Linked List patterns
+
+🎙 English Practice
+"Today I practiced cycle detection, linked list intersection, and reversing nodes in groups."
