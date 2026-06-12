@@ -1,0 +1,52 @@
+💻 Day 75 — Linked List Advanced Problems
+
+⏰ Total Time: ~2–3 hrs
+
+📘 Main Goal:
+Master advanced Linked List patterns
+Strengthen cycle detection and list manipulation concepts
+
+🧮 Task 1 — DSA (Linked List)
+
+🧩 234. Palindrome Linked List
+
+Focus:
+Fast & Slow Pointers
+Reverse Second Half
+Palindrome Verification
+
+Complexity: O(n) Time | O(1) Space
+
+🧩 142. Linked List Cycle II
+
+Focus:
+Floyd's Cycle Detection
+Finding Cycle Start Node
+
+Complexity: O(n) Time | O(1) Space
+
+🧩 Flatten A Linked List
+
+Focus:
+Merge Two Sorted Lists
+Recursion
+Multi-level Linked List
+
+Complexity: O(n × m) (merge-based approach)
+
+📚 What I Learned
+How to check a Linked List palindrome without extra space.
+How Floyd's Algorithm can locate the exact starting node of a cycle.
+How recursive merging helps flatten multi-level linked lists.
+
+💜 Orbit Habit System
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Draw pointer movements
+Revise Fast & Slow Pointer patterns
+
+🎙 English Practice
+"Today I solved advanced linked list problems involving palindrome checking, cycle detection, and flattening a linked list."
