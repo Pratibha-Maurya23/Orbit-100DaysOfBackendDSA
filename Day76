@@ -1,0 +1,75 @@
+💻 Day 76 — Linked List, Arrays & Python Functions
+⏰ Total Time: ~4 hrs
+
+📘 Main Goal:
+Complete important Linked List & Array interview problems
+Revise previous Array and Linked List patterns
+Learn Functions in Python
+
+🧮 Task 1 — DSA
+
+🧩 61. Rotate List
+
+Focus:
+Linked List Length
+Circular Linked List
+Pointer Manipulation
+
+Complexity: O(n) Time | O(1) Space
+
+🧩 138. Copy List with Random Pointer
+
+Focus:
+Deep Copy
+Random Pointer Handling
+HashMap / Optimal Approach
+
+Complexity: O(n) Time
+
+🧩 15. 3Sum
+
+Focus:
+Sorting
+Two Pointers
+Duplicate Handling
+
+Complexity: O(n²) Time
+
+🔄 Task 2 — Revision (Array and LinkedList)
+
+Focus:
+Two Pointers
+Hashing
+Prefix Sum
+
+Focus:
+Fast & Slow Pointers
+Reversal
+Cycle Detection
+Merge Techniques
+Pointer Manipulation
+
+🐍 Task 3 — Python (Agentic AI Journey) : Functions in Python
+
+Focus:
+Function Definition
+Parameters & Arguments
+Return Statement
+Default Arguments
+Scope of Variables
+Practice
+Create simple utility functions
+Use functions with loops and conditionals
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Revise patterns, not solutions
+Write key takeaways
+
+🎙 English Practice
+"Today I solved linked list and array problems, revised core DSA patterns, and learned functions in Python."
