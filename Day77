@@ -1,0 +1,49 @@
+💻 Day 77 — Arrays & Two Pointer Patterns
+
+⏰ Total Time: ~2–3 hrs
+
+📘 Main Goal:
+Strengthen Array interview patterns
+Master Two Pointers and Prefix Logic
+Improve problem-solving speed
+
+🧮 Task 1 — DSA
+🧩 42. Trapping Rain Water
+
+Focus:
+Two Pointers
+Left Max & Right Max
+Water Accumulation Logic
+
+Complexity: O(n) Time | O(1) Space
+
+🧩 26. Remove Duplicates from Sorted Array
+
+Focus:
+Two Pointers
+In-place Modification
+Sorted Array Properties
+
+Complexity: O(n) Time | O(1) Space
+
+🧩 485. Max Consecutive Ones
+
+Focus:
+Array Traversal
+Counting Streaks
+Maximum Length Tracking
+
+Complexity: O(n) Time | O(1) Space
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Focus on pattern recognition
+Write key observations
+
+🎙 English Practice
+"Today I practiced array problems using two pointers and counting techniques."
