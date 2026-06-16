@@ -1,0 +1,59 @@
+💻 Day 79 — Greedy & Recursion / Backtracking
+
+⏰ Total Time: ~3 hrs
+
+📘 Main Goal:
+Strengthen Greedy Algorithms
+Learn Recursion & Backtracking patterns
+Understand subset generation techniques
+
+🧮 Task 1 — DSA
+
+🧩 Minimum Coins
+
+Focus:
+Greedy Choice
+Coin Selection
+Minimum Count
+
+Complexity: O(n)
+
+🧩 Assign Cookies
+
+Focus:
+Sorting
+Two Pointers
+Greedy Matching
+
+Complexity: O(n log n)
+
+🧩 Subset Sums
+
+Focus:
+Recursion
+Pick / Not Pick Pattern
+Backtracking
+
+Complexity: O(2ⁿ)
+
+🧩 Subsets II
+
+Focus:
+Backtracking
+Handling Duplicates
+Unique Subsets
+
+Complexity: O(2ⁿ)
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Identify Greedy vs Backtracking patterns
+Write key recursion trees
+
+🎙 English Practice
+"Today I practiced greedy algorithms and learned how recursion generates subsets efficiently."
