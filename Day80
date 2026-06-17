@@ -1,0 +1,59 @@
+💻 Day 80 — Backtracking Mastery
+
+⏰ Total Time: ~3 hrs
+
+📘 Main Goal:
+Master Backtracking patterns
+Learn recursion tree visualization
+Strengthen combination and partitioning problems
+
+🧮 Task 1 — DSA
+
+🧩 39. Combination Sum
+
+Focus:
+Backtracking
+Pick / Not Pick
+Reuse Elements
+
+Complexity: Exponential
+
+🧩 40. Combination Sum II
+
+Focus:
+Backtracking
+Duplicate Handling
+Unique Combinations
+
+Complexity: Exponential
+
+🧩 Palindrome Partitioning
+
+Focus:
+Recursion
+Palindrome Checking
+Partition Generation
+
+Complexity: Exponential
+
+🧩 60. Permutation Sequence
+
+Focus:
+Factorial Logic
+kth Permutation
+Mathematical Optimization
+
+Complexity: O(n²)
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Draw recursion trees
+Focus on decision-making at each step
+
+🎙 English Practice
+"Today I practiced backtracking, recursion, and permutation generation techniques."
