@@ -1,0 +1,50 @@
+💻 Day 81 — Advanced Backtracking
+
+⏰ Total Time: ~3 hrs
+
+📘 Main Goal:
+Master advanced backtracking problems
+Improve recursion and state management
+Strengthen constraint-based problem solving
+
+🧮 Task 1 — DSA
+
+🧩 46. Permutations
+
+Focus:
+Backtracking
+Swapping Technique
+State Tracking
+
+Complexity: O(n!)
+
+🧩 51. N-Queens
+
+Focus:
+Backtracking
+Column & Diagonal Checks
+Constraint Satisfaction
+
+Complexity: Exponential
+
+🧩 37. Sudoku Solver
+
+Focus:
+Backtracking
+Valid Placement Checks
+Recursive Decision Making
+
+Complexity: Exponential
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Draw recursion trees
+Focus on pruning invalid states
+
+🎙 English Practice
+"Today I practiced advanced backtracking problems involving permutations, N-Queens, and Sudoku solving."
