@@ -1,0 +1,50 @@
+💻 Day 82 — Backtracking & Recursion
+
+⏰ Total Time: ~3 hrs
+
+📘 Main Goal:
+Strengthen backtracking patterns
+Practice path generation and decision making
+Improve recursive problem-solving skills
+
+🧮 Task 1 — DSA
+
+🧩 M Coloring Problem
+
+Focus:
+Graph Coloring
+Backtracking
+Constraint Checking
+
+Complexity: Exponential
+
+🧩 Rat in a Maze
+
+Focus:
+Path Finding
+Recursion
+Backtracking
+
+Complexity: Exponential
+
+🧩 Word Break (Print All Ways)
+
+Focus:
+String Partitioning
+Recursion
+Backtracking
+
+Complexity: Exponential
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Focus on recursion flow
+Identify base case and choices at each step
+
+🎙 English Practice
+"Today I practiced backtracking problems involving graph coloring, path finding, and string partitioning."
