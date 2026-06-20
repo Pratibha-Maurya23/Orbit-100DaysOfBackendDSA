@@ -1,0 +1,59 @@
+💻 Day 83 — Binary Search Mastery
+
+⏰ Total Time: ~3 hrs
+
+📘 Main Goal:
+Master Binary Search on Answers
+Apply Binary Search on Arrays & Matrices
+Strengthen interview patterns
+
+🧮 Task 1 — DSA
+
+🧩 The N-th Root of an Integer
+
+Focus:
+Binary Search on Answer
+Power Calculation
+Edge Cases
+
+Complexity: O(log n × log m)
+
+🧩 Matrix Median
+
+Focus:
+Binary Search on Answer
+Row-wise Sorted Matrix
+Counting Elements ≤ Mid
+
+Complexity: O(32 × n × log m)
+
+🧩 540. Single Element in a Sorted Array
+
+Focus:
+Binary Search
+Index Parity
+Unique Element Detection
+
+Complexity: O(log n) Time | O(1) Space
+
+🧩 33. Search in Rotated Sorted Array
+
+Focus:
+Modified Binary Search
+Sorted Half Identification
+Target Search
+
+Complexity: O(log n) Time | O(1) Space
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Focus on Binary Search conditions
+Write search space and answer space separately
+
+🎙 English Practice
+"Today I practiced binary search on arrays, matrices, and answer spaces."
