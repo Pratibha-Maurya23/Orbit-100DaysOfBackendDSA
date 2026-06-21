@@ -1,0 +1,58 @@
+💻 Day 84 — Advanced Binary Search
+
+⏰ Total Time: ~3 hrs
+
+📘 Main Goal:
+Master Binary Search on partition and answer space
+Strengthen optimization-based problems
+
+🧮 Task 1 — DSA
+
+🧩 4. Median of Two Sorted Arrays
+
+Focus:
+Binary Search on Smaller Array
+Partition Logic
+Odd/Even Length Cases
+
+Complexity: O(log(min(n, m)))
+
+🧩 Kth Element of 2 Sorted Arrays
+
+Focus:
+Binary Search Partition
+Valid Left Partition
+Kth Element Logic
+
+Complexity: O(log(min(n, m)))
+
+🧩 Allocate Minimum Number of Pages
+
+Focus:
+Binary Search on Answer
+Feasibility Check
+Minimize Maximum Pages
+
+Complexity: O(n log(sum))
+
+🧩 Aggressive Cows
+
+Focus:
+Binary Search on Distance
+Greedy Placement
+Maximize Minimum Distance
+
+Complexity: O(n log(range))
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Identify search space and feasibility function
+Write boundary conditions
+
+🎙 English Practice
+"Today I practiced advanced binary search using partition logic and answer-space optimization."
