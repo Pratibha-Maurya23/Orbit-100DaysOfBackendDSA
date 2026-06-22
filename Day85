@@ -1,0 +1,49 @@
+💻 Day 85 — Heap & Priority Queue
+
+⏰ Total Time: ~3 hrs
+
+📘 Main Goal:
+Master Heap and Priority Queue patterns
+Practice streaming, merging, and frequency-based problems
+
+🧮 Task 1 — DSA
+
+🧩 295. Find Median from Data Stream
+
+Focus:
+Two Heaps
+Max Heap + Min Heap
+Balance Heap Sizes
+
+Complexity: O(log n) per insertion | O(1) median lookup
+
+🧩 Merge K Sorted Arrays
+
+Focus:
+Min Heap
+K-way Merge
+Track Array and Index
+
+Complexity: O(n × k × log k)
+
+🧩 347. Top K Frequent Elements
+
+Focus:
+HashMap Frequency Count
+Min Heap
+Top K Selection
+
+Complexity: O(n log k)
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Identify when to use Min Heap vs Max Heap
+Draw heap state for one example
+
+🎙 English Practice
+"Today I practiced heap-based problems for streaming data, merging sorted arrays, and finding frequent elements."
