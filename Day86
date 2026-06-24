@@ -1,0 +1,58 @@
+💻 Day 86 — Stack & Queue Implementation
+
+⏰ Total Time: ~2 hrs
+
+📘 Main Goal:
+Understand Stack and Queue fundamentals
+Implement operations using arrays and alternate data structures
+
+🧮 Task 1 — DSA
+
+🧩 Implement Stack using Arrays
+
+Focus:
+push(), pop(), top()
+Overflow & Underflow
+Top Pointer
+
+Complexity: O(1) per operation
+
+🧩 Implement Queue using Arrays
+
+Focus:
+enqueue(), dequeue(), front()
+Front & Rear Pointers
+Circular Queue concept
+
+Complexity: O(1) per operation
+
+🧩 Implement Stack using Queue (Single Queue)
+
+Focus:
+Queue Rotation
+Maintain Stack Order
+push() costly approach
+
+Complexity: Push O(n) | Pop O(1)
+
+🧩 Implement Queue using Stack
+
+Focus:
+Two Stacks
+Amortized Analysis
+FIFO using LIFO
+
+Complexity: Amortized O(1) per operation
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Draw operations step-by-step
+Compare LIFO vs FIFO
+
+🎙 English Practice
+"Today I implemented stacks and queues using arrays, queues, and stacks."
