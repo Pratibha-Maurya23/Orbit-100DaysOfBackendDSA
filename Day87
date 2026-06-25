@@ -1,0 +1,49 @@
+💻 Day 87 — Stack Patterns
+
+⏰ Total Time: ~1-1.5 hrs
+
+📘 Main Goal:
+Strengthen Stack-based problem solving
+Learn monotonic stack and recursion patterns
+
+🧮 Task 1 — DSA
+
+🧩 Balanced Parentheses
+
+Focus:
+Stack Matching
+Opening & Closing Brackets
+Valid Sequence Check
+
+Complexity: O(n) Time | O(n) Space
+
+🧩 Next Greater Element
+
+Focus:
+Monotonic Stack
+Traverse from Right
+Maintain Decreasing Stack
+
+Complexity: O(n) Time | O(n) Space
+
+🧩 Sort a Stack
+
+Focus:
+Recursion
+Insert in Sorted Order
+Stack Operations
+
+Complexity: O(n²) Time | O(n) Space
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Draw stack state for each iteration
+Identify monotonic stack condition
+
+🎙 English Practice
+"Today I practiced stack problems involving bracket matching, next greater elements, and recursive sorting."
