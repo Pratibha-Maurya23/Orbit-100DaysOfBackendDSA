@@ -1,0 +1,50 @@
+💻 Day 88 — Advanced Stack & Cache Design
+
+⏰ Total Time: ~3 hrs
+
+📘 Main Goal:
+Master monotonic stack patterns
+Understand LRU & LFU cache design
+Strengthen data structure implementation skills
+
+🧮 Task 1 — DSA
+
+🧩 Next Smaller Element
+
+Focus:
+Monotonic Stack
+Traverse from Right
+Nearest Smaller Element
+
+Complexity: O(n) Time | O(n) Space
+
+🧩 LRU Cache
+
+Focus:
+HashMap + Doubly Linked List
+O(1) Get & Put
+Recently Used Management
+
+Complexity: O(1) per operation
+
+🧩 LFU Cache
+
+Focus:
+Frequency Count
+HashMap + Doubly Linked List
+Least Frequently Used Eviction
+
+Complexity: O(1) per operation
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Draw cache operations step-by-step
+Compare LRU vs LFU eviction policies
+
+🎙 English Practice
+"Today I practiced monotonic stack problems and learned the design of LRU and LFU caches."
