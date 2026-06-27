@@ -1,0 +1,59 @@
+💻 Day 89 — Stack, Queue & BFS
+
+⏰ Total Time: ~3 hrs
+
+📘 Main Goal:
+Master Stack and Queue applications
+Learn Monotonic Stack and BFS traversal
+Strengthen implementation patterns
+
+🧮 Task 1 — DSA
+
+🧩 Largest Rectangle in a Histogram
+
+Focus:
+Monotonic Stack
+Previous/Next Smaller Element
+Maximum Area
+
+Complexity: O(n) Time | O(n) Space
+
+🧩 Sliding Window Maximum
+
+Focus:
+Deque
+Sliding Window
+Maximum Tracking
+
+Complexity: O(n) Time | O(k) Space
+
+🧩 Implement Min Stack
+
+Focus:
+Stack Operations
+Minimum Tracking
+O(1) getMin()
+
+Complexity: O(1) per operation
+
+🧩 Rotten Oranges
+
+Focus:
+Multi-Source BFS
+Queue
+Level Order Traversal
+
+Complexity: O(m × n) Time | O(m × n) Space
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Identify when to use Stack, Queue, or Deque
+Draw BFS level traversal for one example
+
+🎙 English Practice
+"Today I practiced stack, queue, deque, and BFS-based problems."
