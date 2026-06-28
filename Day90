@@ -1,0 +1,51 @@
+💻 Day 90 — Advanced Stack Patterns
+
+⏰ Total Time: ~2–3 hrs
+
+📘 Main Goal:
+Master advanced Stack patterns
+Strengthen monotonic stack concepts
+Improve optimization techniques using Stack
+
+🧮 Task 1 — DSA
+
+🧩 Stock Span Problem
+
+Focus:
+Monotonic Stack
+Previous Greater Element
+Span Calculation
+
+Complexity: O(n) Time | O(n) Space
+
+🧩 Maximum of Minimums for Every Window Size
+
+Focus:
+Previous Smaller Element
+Next Smaller Element
+Monotonic Stack
+Window Range Calculation
+
+Complexity: O(n) Time | O(n) Space
+
+🧩 Celebrity Problem
+
+Focus:
+Stack-based Candidate Elimination
+Verification Step
+Matrix Traversal
+
+Complexity: O(n) Time | O(n) Space
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Identify Previous/Next Greater & Smaller Element patterns
+Draw stack state for one example of each problem
+
+🎙 English Practice
+"Today I solved advanced stack problems using monotonic stacks and stack-based candidate elimination."
