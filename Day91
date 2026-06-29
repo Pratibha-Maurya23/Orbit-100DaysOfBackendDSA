@@ -1,0 +1,49 @@
+💻 Day 91 — String Algorithms
+
+⏰ Total Time: ~2–3 hrs
+
+📘 Main Goal:
+Strengthen string manipulation techniques
+Practice palindrome and parsing problems
+
+🧮 Task 1 — DSA
+
+🧩 Reverse Every Word in a String
+
+Focus:
+String Traversal
+Word Reversal
+Space Handling
+
+Complexity: O(n) Time | O(1) Extra Space
+
+🧩 Longest Palindrome in a String
+
+Focus:
+Expand Around Center
+Palindrome Detection
+Two Pointers
+
+Complexity: O(n²) Time | O(1) Space
+
+🧩 Roman to Integer
+
+Focus:
+HashMap
+Character Traversal
+Subtractive Notation
+
+Complexity: O(n) Time | O(1) Space
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Focus on string traversal patterns
+Practice edge cases
+
+🎙 English Practice
+"Today I practiced string manipulation, palindrome detection, and Roman numeral conversion."
