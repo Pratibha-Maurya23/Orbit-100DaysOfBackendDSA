@@ -1,0 +1,49 @@
+💻 Day 92 — String Parsing & Matching
+
+⏰ Total Time: ~1.5 hrs
+
+📘 Main Goal:
+Strengthen string parsing techniques
+Practice prefix and string matching problems
+
+🧮 Task 1 — DSA
+
+🧩 String to Integer (atoi)
+
+Focus:
+String Parsing
+Overflow Handling
+Edge Cases
+
+Complexity: O(n) Time | O(1) Space
+
+🧩 Longest Common Prefix
+
+Focus:
+String Comparison
+Prefix Matching
+Character Traversal
+
+Complexity: O(n × m)
+
+🧩 Repeated String Match
+
+Focus:
+String Concatenation
+Substring Search
+Minimum Repetitions
+
+Complexity: O(n × m)
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Practice edge cases
+Note common string manipulation patterns
+
+🎙 English Practice
+"Today I practiced string parsing, prefix matching, and string repetition problems."
