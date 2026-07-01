@@ -1,0 +1,49 @@
+💻 Day 93 — String Matching & Dynamic Programming
+
+⏰ Total Time: ~1.5-2 hrs
+
+📘 Main Goal:
+Master string matching algorithms
+Strengthen palindrome-based DP concepts
+
+🧮 Task 1 — DSA
+
+🧩 Z Algorithm
+
+Focus:
+Z Array
+Pattern Matching
+Linear Time Search
+
+Complexity: O(n) Time | O(n) Space
+
+🧩 Find the Index of the First Occurrence in a String
+
+Focus:
+String Matching
+Sliding Comparison
+KMP / Built-in Search
+
+Complexity: O(n + m)
+
+🧩 Minimum Insertion Steps to Make a String Palindrome
+
+Focus:
+Longest Palindromic Subsequence
+Dynamic Programming
+String Transformation
+
+Complexity: O(n²) Time | O(n²) Space
+
+💜 Orbit Habit System
+
+🌅 Morning
+No phone for 30 min
+Drink water
+
+📖 Learning Habit
+Focus on string matching patterns
+Revise LPS and DP concepts
+
+🎙 English Practice
+"Today I practiced string matching algorithms and dynamic programming for palindrome problems."
